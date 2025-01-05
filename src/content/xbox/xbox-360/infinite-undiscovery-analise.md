@@ -12,3 +12,7 @@ Infinite Undiscovery
 ## Conclusão
 
 Infinite Undiscovery
+
+## Infinite Undiscovery XBox 360 - Análise
+
+Infinite Undiscovery

@@ -12,3 +12,7 @@ Power Stone
 ## Conclusão
 
 Power Stone
+
+## Power Stone Sega Dreamcast - Análise
+
+Power Stone

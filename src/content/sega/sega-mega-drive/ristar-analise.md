@@ -12,3 +12,7 @@ Ristar
 ## Conclusão
 
 Ristar
+
+## Ristar Sega Mega Drive - Análise
+
+Ristar

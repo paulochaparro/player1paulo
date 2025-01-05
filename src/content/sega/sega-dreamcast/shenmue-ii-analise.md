@@ -12,3 +12,7 @@ Shenmue II
 ## Conclusão
 
 Shenmue II
+
+## Shenmue II Sega Dreamcast - Análise
+
+Shenmue II

@@ -12,3 +12,7 @@ Toy Commander
 ## Conclusão
 
 Toy Commander
+
+## Toy Commander Sega Dreamcast - Análise
+
+Toy Commander

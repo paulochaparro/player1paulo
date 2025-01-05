@@ -12,3 +12,7 @@ Dragon Force
 ## Conclusão
 
 Dragon Force
+
+## Dragon Force Sega Saturn - Análise
+
+Dragon Force

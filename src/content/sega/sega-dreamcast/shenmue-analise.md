@@ -12,3 +12,7 @@ Shenmue
 ## Conclusão
 
 Shenmue
+
+## Shenmue Sega Dreamcast - Análise
+
+Shenmue

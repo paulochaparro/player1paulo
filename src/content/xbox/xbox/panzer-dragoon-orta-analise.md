@@ -12,3 +12,7 @@ Panzer Dragon Orta
 ## Conclusão
 
 Panzer Dragoon Orta
+
+## Panzer Dragoon Saga XBox - Análise
+
+Panzer Dragoon Saga

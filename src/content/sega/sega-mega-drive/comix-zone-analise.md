@@ -12,3 +12,7 @@ Comix Zone
 ## Conclusão
 
 Comix Zone
+
+## Comix Zone Sega Mega Drive - Análise
+
+Comix Zone

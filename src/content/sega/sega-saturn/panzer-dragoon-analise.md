@@ -12,3 +12,7 @@ Panzer Dragoon
 ## Conclusão
 
 Panzer Dragoon
+
+## Panzer Dragoon Sega Saturn - Análise
+
+Panzer Dragoon
