@@ -8,3 +8,7 @@ TrickStyle
 ## TrickStyle
 
 TrickStyle
+
+## Conclusão
+
+TrickStyle

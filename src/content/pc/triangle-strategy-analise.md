@@ -8,3 +8,7 @@ Triangle Strategy
 ## Triangle Strategy
 
 Triangle Strategy
+
+## Conclusão
+
+Triangle Strategy

@@ -7,4 +7,8 @@ Chrono Trigger
 
 ## Chrono Trigger
 
-Crono Trigger
+Chrono Trigger
+
+## Conclusão
+
+Chrono Trigger
