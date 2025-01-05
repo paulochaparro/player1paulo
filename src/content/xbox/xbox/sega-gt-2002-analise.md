@@ -8,3 +8,7 @@ Sega GT 2002
 ## Sega GT 2002
 
 Sega GT 2002
+
+## Conclusão
+
+Sega GT 2002
