@@ -8,3 +8,7 @@ Streets of Rage 3
 ## Streets of Rage 3
 
 Streets of Rage 3
+
+## Conclusão
+
+Streets of Rage 3
