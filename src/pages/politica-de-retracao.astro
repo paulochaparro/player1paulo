@@ -1,0 +1,26 @@
+---
+import HeaderNav from "../components/HeaderNav.astro";
+import Footer from "../components/Footer.astro";
+import "../styles/global.css";
+---
+
+<!doctype html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Política de Retração</title>
+    <link rel="sitemap" href="/sitemap-index.xml" />
+  </head>
+  <body>
+    <slot />
+    <main>
+      <h1>Política de Retração</h1>
+      <p>política de retração</p>
+      <h2>Política de Retração</h2>
+      <p>política de retração</p>
+    </main>
+  </body>
+</html>

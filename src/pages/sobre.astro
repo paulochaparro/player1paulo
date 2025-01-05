@@ -1,0 +1,29 @@
+---
+import LayoutHeadPaginaSobre from "../layouts/LayoutHeadPaginaSobre.astro";
+import HeaderNav from "../components/HeaderNav.astro";
+import Footer from "../components/Footer.astro";
+import "../styles/global.css";
+---
+
+<!doctype html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Sobre</title>
+    <link rel="sitemap" href="/sitemap-index.xml" />
+  </head>
+  <body>
+    <slot />
+    <main>
+      <h1>Sobre</h1>
+      <p>sobre</p>
+      <h2>Sobre</h2>
+      <p>sobre</p>
+      <h2>Sobre</h2>
+      <p>sobre</p>
+    </main>
+  </body>
+</html>

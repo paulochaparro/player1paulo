@@ -1,0 +1,517 @@
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Googlebot-Image
+Allow: /
+Crawl-delay: 1
+
+User-agent: Googlebot-Video
+Allow: /
+Crawl-delay: 1
+
+User-agent: Googlebot-News
+Allow: /
+Crawl-delay: 1
+
+User-agent: Google-InspectionTool
+Allow: /
+Crawl-delay: 1
+
+User-agent: GoogleOther
+Allow: /
+Crawl-delay: 1
+
+User-agent: GoogleOther-Image
+Allow: /
+Crawl-delay: 1
+
+User-agent: GoogleOther-Video
+Allow: /
+Crawl-delay: 1
+
+User-agent: Google-CloudVertexBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Google-Extended
+Allow: /
+Crawl-delay: 1
+
+User-agent: GoogleOther-Video
+Allow: /
+Crawl-delay: 1
+
+User-agent: Google Image Proxy
+Allow: /
+Crawl-delay: 1
+
+User-agent: Google Read Aloud
+Allow: /
+Crawl-delay: 1
+
+User-agent: Google Images
+Allow: /
+Crawl-delay: 1
+
+User-agent: BingBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: GPTBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: ChatGPT-User
+Allow: /
+Crawl-delay: 1
+
+User-agent: Amazonbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: PinterestBot
+Allow: /
+Crawl-delay: 1
+
+User agent: FacebookBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: facebookexternalhit
+Allow: /
+Crawl-delay: 1
+
+User-agent: meta-externalfetcher
+Allow: /
+Crawl-delay: 1
+
+User-agent: meta-externalagent
+Allow: /
+Crawl-delay: 1
+
+User-agent: Twitterbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bytespider
+Allow: /
+Crawl-delay: 1
+
+User-agent: Applebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Applebot-Extended
+Allow: /
+Crawl-delay: 1
+
+User-agent: PetalBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: OAI-SearchBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Baidu
+Allow: /
+Crawl-delay: 1
+
+User-agent: YahooMailProxy
+Allow: /
+Crawl-delay: 1
+
+User-agent: DuckAssistBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Sogou
+Allow: /
+Crawl-delay: 1
+
+User-agent: Seznam
+Allow: /
+Crawl-delay: 1
+
+User-agent: Cốc Cốc
+Allow: /
+Crawl-delay: 1
+
+User-agent: CCBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Yeti by Naver
+Allow: /
+Crawl-delay: 1
+
+User-agent: Internet Archive
+Allow: /
+Crawl-delay: 1
+
+User-agent: Dataprovider.com
+Allow: /
+Crawl-delay: 1
+
+User-agent: Innologica
+Allow: /
+Crawl-delay: 1
+
+User-agent: Yahoo Slurp
+Allow: /
+Crawl-delay: 1
+
+User-agent: Qwantbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: ZoomInfo
+Allow: /
+Crawl-delay: 1
+
+User-agent: Telegram Bot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Feedly
+Allow: /
+Crawl-delay: 1
+
+User-agent: LinkedInBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Skype
+Allow: /
+Crawl-delay: 1
+
+User-agent: Coveo Bot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Feeder
+Allow: /
+Crawl-delay: 1
+
+User-agent: MSN
+Allow: /
+Crawl-delay: 1
+
+User-agent: Mojeek
+Allow: /
+Crawl-delay: 1
+
+User-agent: Google Inspection Tool
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slack Image Proxy
+Allow: /
+Crawl-delay: 1
+
+User-agent: Google Videos
+Allow: /
+Crawl-delay: 1
+
+User-agent: Blockaid
+Allow: /
+Crawl-delay: 1
+
+User-agent: Feedbin
+Allow: /
+Crawl-delay: 1
+
+User-agent: FlipboardProxy
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bing Preview
+Allow: /
+Crawl-delay: 1
+
+User-agent: Mars Finder
+Allow: /
+Crawl-delay: 1
+
+User-agent: rss2tg_bot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Google Feed Fetcher
+Allow: /
+Crawl-delay: 1
+
+User-agent: InternetArchiveBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: WOVN Crawler
+Allow: /
+Crawl-delay: 1
+
+User-agent: upday
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bluesky Link Preview Service
+Allow: /
+Crawl-delay: 1
+
+User-agent: FlipboardRSS
+Allow: /
+Crawl-delay: 1
+
+User-agent: Arquivo Web Crawler
+Allow: /
+Crawl-delay: 1
+
+User-agent: Accessible Web Bot
+Allow: /
+Crawl-delay: 1
+
+User-agent: MonitoRSS
+Allow: /
+Crawl-delay: 1
+
+User-agent: Hatena
+Allow: /
+Crawl-delay: 1
+
+User-agent: QualifiedBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: ICC Crawler
+Allow: /
+Crawl-delay: 1
+
+User-agent: Skroutz ImageBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: NewsBlur
+Allow: /
+Crawl-delay: 1
+
+User-agent: Google Trust Services (DCV Check)
+Allow: /
+Crawl-delay: 1
+
+User-agent: ProjectShield Url Check
+Allow: /
+Crawl-delay: 1
+
+User-agent: PressEngine Bot
+Allow: /
+Crawl-delay: 1
+
+User-agent: MediaMonitoringBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: RSS API
+Allow: /
+Crawl-delay: 1
+
+User-agent: SecurityHeaders
+Allow: /
+Crawl-delay: 1
+
+User-agent: Rakuten Image extraction bot
+Allow: /
+Crawl-delay: 1
+
+User-agent: LINER Bot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Nooshub
+Allow: /
+Crawl-delay: 1
+
+User-agent: WMF Citoid
+Allow: /
+Crawl-delay: 1
+
+User-agent: Shortwave Image Fetcher
+Allow: /
+Crawl-delay: 1
+
+User-agent: SkroutzBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: FeedWind Crawler
+Allow: /
+Crawl-delay: 1
+
+User-agent: Ozon Web Grabber
+Allow: /
+Crawl-delay: 1
+
+User-agent: Google Scholar
+Allow: /
+Crawl-delay: 1
+
+User-agent: videootv Bot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Marginalia Search
+Allow: /
+Crawl-delay: 1
+
+User-agent: WebSpiderMount
+Allow: /
+Crawl-delay: 1
+
+User-agent: WMF Zotero Translation Server
+Allow: /
+Crawl-delay: 1
+
+User-agent: Notabot
+Allow: /
+Crawl-delay: 1
+
+User-agent: AddThis
+Allow: /
+Crawl-delay: 1
+
+User-agent: OpenRSS
+Allow: /
+Crawl-delay: 1
+
+User-agent: Alexa Archive
+Allow: /
+Crawl-delay: 1
+
+User-agent: Readable
+Allow: /
+Crawl-delay: 1
+
+User-agent: Alexa Site Audit
+Allow: /
+Crawl-delay: 1
+
+User-agent: Buttondown RSS-Feed-Parser
+Allow: /
+Crawl-delay: 1
+
+User-agent: New York Times Newsgathering
+Allow: /
+Crawl-delay: 1
+
+User-agent: Buttondown RSS-Feed-Parser
+Allow: /
+Crawl-delay: 1
+
+User-agent: anthropic-ai
+Allow: /
+Crawl-delay: 1
+
+User-agent: Claude-Web
+Allow: /
+Crawl-delay: 1
+
+User-agent: ClaudeBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: AI2Bot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Ai2Bot-Dolma
+Allow: /
+Crawl-delay: 1
+
+User-agent: Diffbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: FriendlyCrawler
+Allow: /
+Crawl-delay: 1
+
+User-agent: ImagesiftBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: img2dataset
+Allow: /
+Crawl-delay: 1
+
+User-agent: Kangaroo Bot
+Allow: /
+Crawl-delay: 1
+
+User-agent: omgili
+Allow: /
+Crawl-delay: 1
+
+User-agent: omgilibot
+Allow: /
+Crawl-delay: 1
+
+User-agent: PanguBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: PerplexityBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Scrapy
+Allow: /
+Crawl-delay: 1
+
+User-agent: Sidetrade indexer bot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Timpibot
+Allow: /
+Crawl-delay: 1
+
+User-agent: VelenPublicWebCrawler
+Allow: /
+Crawl-delay: 1
+
+User-agent: Webzio-Extended
+Allow: /
+Crawl-delay: 1
+
+User-agent: YouBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: iaskspider/2.0
+Allow: /
+Crawl-delay: 1
+
+User-agent: AhrefsBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: HTTrack
+Allow: /
+Crawl-delay: 1
+
+User-agent: MJ12bot
+Allow: /
+Crawl-delay: 1
+
+User-agent: *
+Allow: /
+Crawl-delay: 2
+
+Sitemap: https://player1paulo.com/sitemap-index.xml

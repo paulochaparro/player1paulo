@@ -1,0 +1,27 @@
+---
+import LayoutHeadPaginaContacto from "../layouts/LayoutHeadPaginaContacto.astro";
+import HeaderNav from "../components/HeaderNav.astro";
+import Footer from "../components/Footer.astro";
+import "../styles/global.css";
+---
+
+<!doctype html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Contacto</title>
+    <link rel="sitemap" href="/sitemap-index.xml" />
+  </head>
+  <body>
+    <slot />
+    <main>
+      <h1>Contacto</h1>
+      <p>contacto</p>
+      <h2>Contacto</h2>
+      <p>contacto</p>
+    </main>
+  </body>
+</html>
