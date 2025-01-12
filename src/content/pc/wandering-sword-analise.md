@@ -9,6 +9,10 @@ Wandering Sword
 
 Wandering Sword
 
+## Conclusão
+
+Wandering Sword
+
 ## Wandering Sword PC - Análise
 
 Wandering Sword

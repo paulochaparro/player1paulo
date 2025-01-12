@@ -9,6 +9,10 @@ Chrono Trigger
 
 Chrono Trigger
 
+## Conclusão
+
+Chrono Trigger
+
 ## Chrono Trigger Nintendo DS - Análise
 
 Chrono Trigger

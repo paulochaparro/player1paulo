@@ -8,3 +8,11 @@ Sand Land: The Game
 ## Sand Land: The Game
 
 Sand Land: The Game
+
+## Conclusão
+
+Sand Land: The Game
+
+## Sand Land: The Game PC - Análise
+
+Sand Land: The Game

@@ -11,4 +11,8 @@ Chrono Cross: The Radical Dreamers Edition
 
 ## Conclusão
 
-Chrono Cross: The RAdical Dreamers Edition
+Chrono Cross: The Radical Dreamers Edition
+
+## Chrono Cross: The Radical Dreamers Edition PC - Análise
+
+Chrono Cross

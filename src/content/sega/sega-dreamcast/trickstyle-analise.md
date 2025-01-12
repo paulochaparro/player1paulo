@@ -12,3 +12,7 @@ TrickStyle
 ## Conclusão
 
 TrickStyle
+
+## TrickStyle Sega Dreamcast - Análise
+
+TrickStyle

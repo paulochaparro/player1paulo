@@ -8,3 +8,11 @@ Fear Effect 2: Retro Helix
 ## Fear Effect 2: Retro Helix
 
 Fear Effect 2: Retro Helix
+
+## Conclusão
+
+Fear Effect 2: Retro Helix
+
+## Fear Effect 2: Retro Helix PlayStation - Análise
+
+Fear Effect 2: Retro Helix
