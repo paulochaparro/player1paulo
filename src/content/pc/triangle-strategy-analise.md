@@ -12,3 +12,7 @@ Triangle Strategy
 ## Conclusão
 
 Triangle Strategy
+
+## Triangle Strategy PC - Análise
+
+Triangle Strategy

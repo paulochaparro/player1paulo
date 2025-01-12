@@ -12,3 +12,7 @@ Chrono Trigger
 ## Conclusão
 
 Chrono Trigger
+
+## Chrono Trigger Super Nintendo - Análise
+
+Chrono Trigger

@@ -12,3 +12,7 @@ Tales of Rebirth
 ## Conclusão
 
 Tales of Rebirth
+
+## Tales of Rebirth PlayStation 2 - Análise
+
+Tales of Rebirth

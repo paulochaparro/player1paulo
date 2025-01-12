@@ -12,3 +12,7 @@ Tales of Symphonia
 ## Conclusão
 
 Tales of Symphonia
+
+## Tales of Symphonia PC - Análise
+
+Tales of Symphonia

@@ -12,3 +12,7 @@ Vagrant Story
 ## Conclusão
 
 Vagrant Story
+
+## Vagrant Story PlayStation - Análise
+
+Vagrant Story

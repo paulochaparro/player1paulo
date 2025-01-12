@@ -12,3 +12,7 @@ Grandia
 ## Conclusão
 
 Grandia
+
+## Grandia PlayStation - Análise
+
+Grandia

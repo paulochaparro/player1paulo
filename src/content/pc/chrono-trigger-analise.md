@@ -12,3 +12,7 @@ Chrono Trigger
 ## Conclusão
 
 Chrono Trigger
+
+## Chrono Trigger PC - Análise
+
+Chrono Trigger

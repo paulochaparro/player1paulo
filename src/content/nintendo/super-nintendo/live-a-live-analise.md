@@ -8,3 +8,7 @@ Live A Live
 ## Live A Live
 
 Live A Live
+
+## Live A Live Super Nintendo - Análise
+
+Live A Live

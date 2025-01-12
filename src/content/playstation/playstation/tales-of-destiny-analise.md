@@ -12,3 +12,7 @@ Tales of Destiny
 ## Conclusão
 
 Tales of Destiny
+
+## Tales of Destiny PlayStation - Análise
+
+Tales of Destiny

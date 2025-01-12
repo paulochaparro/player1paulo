@@ -12,3 +12,7 @@ Xenogears
 ## Conclusão
 
 Xenogears
+
+## Xenogears PlayStation - Análise
+
+Xenogears

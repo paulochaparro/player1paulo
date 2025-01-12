@@ -12,3 +12,7 @@ Tales of Vesperia
 ## Conclusão
 
 Tales of Vesperia
+
+## Tales of Vesperia PC - Análise
+
+Tales of Vesperia

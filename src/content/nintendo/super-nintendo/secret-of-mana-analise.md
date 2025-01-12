@@ -8,3 +8,7 @@ Secret of Mana
 ## Secret of Mana
 
 Secret of Mana
+
+## Secret of Mana Super Nintendo - Análise
+
+Secret of Mana

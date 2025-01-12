@@ -8,3 +8,7 @@ Illusion of Gaia
 ## Illusion of Gaia
 
 Illusion of Gaia
+
+## Illusion of Gaia Super Nintendo - Análise
+
+Illusion of Gaia

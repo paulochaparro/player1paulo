@@ -1,14 +1,18 @@
 ---
 ---
 
-# Octopath Traveler - Análise
+# Octopath Traveler II - Análise
 
-Octopath Traveler
+Octopath Traveler II
 
-## Octopath Traveler
+## Octopath Traveler II
 
-Octopath Traveler
+Octopath Traveler II
 
 ## Conclusão
 
-Octopath Traveler
+Octopath Traveler II
+
+## Octopath Traveler II PC - Análise
+
+Octopath Traveler II

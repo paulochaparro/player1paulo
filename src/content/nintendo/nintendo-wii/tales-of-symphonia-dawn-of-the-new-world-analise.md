@@ -12,3 +12,7 @@ Tales of Symphonia: Dawn of the New World
 ## Conclusão
 
 Tales of Symphonia: Dawn of the New World
+
+## Tales of Symphonia: Dawn of the New World Nintendo Wii - Análise
+
+Tales of Symphonia: Dawn of the New World

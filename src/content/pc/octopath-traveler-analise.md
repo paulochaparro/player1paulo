@@ -12,3 +12,7 @@ Octopath Traveler
 ## Conclusão
 
 Octopath Traveler
+
+## Octopath Traveler PC - Análise
+
+Octopath Traveler

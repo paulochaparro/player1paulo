@@ -12,3 +12,7 @@ Shenmue III
 ## Conclusão
 
 Shenmue III
+
+## Shenmue III PC - Análise
+
+Shenmue III
