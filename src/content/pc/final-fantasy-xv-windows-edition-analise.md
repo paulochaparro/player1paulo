@@ -16,3 +16,7 @@ Final Fantasy
 ## Conclusão
 
 Final Fantasy XV Windows Edition
+
+## Final Fantasy XV Windows Edition PC - Análise
+
+Final Fantasy XV Windows Edition

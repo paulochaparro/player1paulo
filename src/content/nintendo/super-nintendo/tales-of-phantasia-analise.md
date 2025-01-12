@@ -9,6 +9,10 @@ Tales of Phantasia
 
 Tales of Phantasia
 
+## Conclusão
+
+Tales of Phantasia
+
 ## Tales of Phantasia Super Nintendo - Análise
 
 Tales of Phantasia

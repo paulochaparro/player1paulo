@@ -8,3 +8,11 @@ Final Fantasy VI
 ## Final Fantasy VI
 
 Final Fantasy VI
+
+## Conclusão
+
+Final Fantasy VI
+
+## Final Fantasy VI Super Nintendo - Análise
+
+Final Fantasy VI

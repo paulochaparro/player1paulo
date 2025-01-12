@@ -9,6 +9,10 @@ Star Ocean
 
 Star Ocean
 
+## Conclusão
+
+Star Ocean
+
 ## Star Ocean Super Nintendo - Análise
 
 Star Ocean

@@ -12,3 +12,7 @@ Kona
 ## Conclusão
 
 Kona
+
+## Kona PC - Análise
+
+Kona

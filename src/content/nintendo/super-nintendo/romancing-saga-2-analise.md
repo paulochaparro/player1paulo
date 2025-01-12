@@ -7,4 +7,8 @@ Romancing SaGa 2
 
 ## Romancing SaGa 2
 
-Romancing SaGa
+Romancing SaGa 2
+
+## Romancing SaGa 2 Super Nintendo - Análise
+
+Romancing Saga 2
