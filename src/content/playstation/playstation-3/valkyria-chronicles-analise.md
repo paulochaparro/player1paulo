@@ -12,3 +12,7 @@ Valkyria Chronicles
 ## Conclusão
 
 Valkyria Chronicles
+
+## Valkyria Chronicles PlayStation 3 - Análise
+
+Valkyria Chronicles

@@ -12,3 +12,7 @@ Crash Nitro Kart
 ## Conclusão
 
 Crash Nitro Kart
+
+## Crash Nitro Kart XBox - Análise
+
+Crash Nitro Kart

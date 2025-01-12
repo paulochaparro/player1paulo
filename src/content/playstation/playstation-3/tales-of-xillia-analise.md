@@ -12,3 +12,7 @@ Tales of Xillia
 ## Conclusão
 
 Tales of Xillia
+
+## Tales of Xillia PlayStation 3 - Análise
+
+Tales of Xillia

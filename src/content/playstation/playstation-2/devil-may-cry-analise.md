@@ -12,3 +12,7 @@ Devil May Cry
 ## Conclusão
 
 Devil May Cry
+
+## Devil May Cry PlayStation 2 - Análise
+
+Devil May Cry

@@ -12,3 +12,7 @@ Eternal Sonata
 ## Conclusão
 
 Eternal Sonata
+
+## Eternal Sonata XBox 360 - Análise
+
+Eternal Sonata

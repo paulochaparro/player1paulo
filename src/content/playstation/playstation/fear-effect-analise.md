@@ -7,4 +7,12 @@ Fear Effect
 
 ## Fear Effect
 
-Efect Effect
+Fear Effect
+
+## Conclusão
+
+Fear Effect
+
+## Fear Effect PlayStation - Análise
+
+Fear Effect

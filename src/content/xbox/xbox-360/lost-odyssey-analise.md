@@ -12,3 +12,7 @@ Lost Odyssey
 ## Conclusão
 
 Lost Odyssey
+
+## Lost Odyssey XBox 360 - Análise
+
+Lost Odyssey

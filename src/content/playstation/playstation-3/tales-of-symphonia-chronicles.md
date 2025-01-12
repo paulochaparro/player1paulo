@@ -16,3 +16,7 @@ Tales of Symphonia: Dawn of the New World
 ## Conclusão
 
 Tales of Symphonia Chronicles
+
+## Tales of Symphonia Chronicles PlayStation 3 - Análise
+
+Tales of Symphonia Chronicles
