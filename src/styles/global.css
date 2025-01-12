@@ -44,14 +44,17 @@ main {
 }
 
 article {
+  content-visibility: auto;
   display: ;
 }
 
 aside {
+  content-visibility: auto;
   display: ;
 }
 
 footer {
+  content-visibility: auto;
   display: ;
 }
 
