@@ -12,3 +12,7 @@ SaGa Frontier Remastered
 ## Conclusão
 
 SaGa Frontier Remastered
+
+## SaGa Frontier Remastered PC - Análise
+
+SaGa Frontier Remastered

@@ -9,6 +9,10 @@ Triangle Strategy
 
 Triangle Strategy
 
+## Conclusão
+
+Triangle Strategy
+
 ## Triangle Strategy Nintendo Switch - Análise
 
 Triangle Strategy

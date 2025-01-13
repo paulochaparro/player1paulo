@@ -9,6 +9,10 @@ Heroes of Mana
 
 Heroes of Mana
 
+## Conclusão
+
+Heroes of Mana
+
 ## Heroes of Mana Nintendo DS - Análise
 
 Heroes of Mana
