@@ -9,6 +9,10 @@ Blood of Bahamut
 
 Blood of Bahamut
 
+## Jogabilidade
+
+Blood of Bahamut
+
 ## Conclusão
 
 Blood of Bahamut

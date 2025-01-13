@@ -9,6 +9,10 @@ Illusion of Gaia
 
 Illusion of Gaia
 
+## Jogabilidade
+
+Illusion of Gaia
+
 ## Conclusão
 
 Illusion of Gaia

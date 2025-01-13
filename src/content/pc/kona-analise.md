@@ -9,6 +9,10 @@ Kona
 
 Kona
 
+## Jogabilidade
+
+Kona
+
 ## Conclusão
 
 Kona

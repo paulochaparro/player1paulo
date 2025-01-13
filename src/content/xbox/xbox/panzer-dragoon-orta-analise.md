@@ -9,6 +9,10 @@ Panzer Dragoon Orta
 
 Panzer Dragon Orta
 
+## Jogabilidade
+
+Panzer Dragon Orta
+
 ## Conclusão
 
 Panzer Dragoon Orta

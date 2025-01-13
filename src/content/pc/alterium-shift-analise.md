@@ -9,6 +9,10 @@ Alterium Shift
 
 Alterium Shift
 
+## Jogabilidade
+
+Alterium Shift
+
 ## Conclusão
 
 Alterium Shift

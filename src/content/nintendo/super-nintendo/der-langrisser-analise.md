@@ -9,6 +9,10 @@ Der Langrisser
 
 Der Langrisser
 
+## Jogabilidade
+
+Der Langrisser
+
 ## Conclusão
 
 Der Langrisser

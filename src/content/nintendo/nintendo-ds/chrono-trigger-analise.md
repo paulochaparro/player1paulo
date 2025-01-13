@@ -9,6 +9,10 @@ Chrono Trigger
 
 Chrono Trigger
 
+## Jogabilidade
+
+Chrono Trigger
+
 ## Conclusão
 
 Chrono Trigger

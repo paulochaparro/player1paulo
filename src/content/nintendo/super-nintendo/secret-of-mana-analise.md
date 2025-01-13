@@ -9,6 +9,10 @@ Secret of Mana
 
 Secret of Mana
 
+## Jogabilidade
+
+Secret of Mana
+
 ## Conclusão
 
 Secret of Mana

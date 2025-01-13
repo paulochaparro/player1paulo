@@ -9,6 +9,10 @@ Panzer Dragoon
 
 Panzer Dragoon
 
+## Jogabilidade
+
+Panzer Dragoon
+
 ## Conclusão
 
 Panzer Dragoon

@@ -9,6 +9,10 @@ Octopath Traveler II
 
 Octopath Traveler II
 
+## Jogabilidade
+
+Octopath Traveler II
+
 ## Conclusão
 
 Octopath Traveler II

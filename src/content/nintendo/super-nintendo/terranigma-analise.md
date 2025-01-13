@@ -9,6 +9,10 @@ Terranigma
 
 Terranigma
 
+## Jogabilidade
+
+Terranigma
+
 ## Conclusão
 
 Terranigma

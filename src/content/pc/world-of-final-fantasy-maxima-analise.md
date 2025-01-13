@@ -13,6 +13,10 @@ World of Final Fantasy Maxima
 
 World of Final Fantasy
 
+## Jogabilidade
+
+World of Final Fantasy Maxima
+
 ## Conclusão
 
 World of Final Fantasy Maxima

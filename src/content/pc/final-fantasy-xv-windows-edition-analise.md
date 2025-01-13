@@ -13,6 +13,10 @@ Final Fantasy XV Windows Edition
 
 Final Fantasy
 
+## Jogabilidade
+
+Final Fantasy XV Windows Edition
+
 ## Conclusão
 
 Final Fantasy XV Windows Edition

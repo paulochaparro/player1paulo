@@ -9,6 +9,10 @@ Ultimate NES Remix
 
 Ultimate NES Remix
 
+## Jogabilidade
+
+Ultimate NES Remix
+
 ## Conclusão
 
 Ultimate NES Remix

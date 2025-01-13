@@ -9,6 +9,10 @@ Jet Set Radio Future
 
 Jet Set Radio Future
 
+## Jogabilidade
+
+Jet Set Radio Future
+
 ## Conclusão
 
 Jet Set Radio Future

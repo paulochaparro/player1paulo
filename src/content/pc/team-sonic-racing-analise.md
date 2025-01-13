@@ -9,6 +9,10 @@ Team Sonic Racing
 
 Team Sonic Racing
 
+## Jogabilidade
+
+Team Sonic Racing
+
 ## Conclusão
 
 Team Sonic Racing

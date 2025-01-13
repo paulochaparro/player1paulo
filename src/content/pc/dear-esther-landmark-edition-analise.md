@@ -9,6 +9,10 @@ Dear Esther: Landmark Edition
 
 Dear Esther: Landmark Edition
 
+## Jogabilidade
+
+Dear Esther: Landmark Edition
+
 ## Conclusão
 
 Dear Esther: Landmark Edition

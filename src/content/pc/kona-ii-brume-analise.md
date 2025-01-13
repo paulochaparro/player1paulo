@@ -9,6 +9,10 @@ Kona II: Brume
 
 Kona II: Brume
 
+## Jogabilidade
+
+Kona II: Brume
+
 ## Conclusão
 
 Kona II: Brume

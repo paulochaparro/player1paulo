@@ -9,6 +9,10 @@ Octopath Traveler
 
 Octopath Traveler
 
+## Jogabilidade
+
+Octopath Traveler
+
 ## Conclusão
 
 Octopath Traveler

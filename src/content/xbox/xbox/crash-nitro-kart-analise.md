@@ -9,6 +9,10 @@ Crash Nitro Kart
 
 Crash Nitro Kart
 
+## Jogabilidade
+
+Crash Nitro Kart
+
 ## Conclusão
 
 Crash Nitro Kart

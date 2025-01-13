@@ -9,6 +9,10 @@ Final Fantasy VI
 
 Final Fantasy VI
 
+## Jogabilidade
+
+Final Fantasy VI
+
 ## Conclusão
 
 Final Fantasy VI

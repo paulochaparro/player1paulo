@@ -9,6 +9,10 @@ Final Fantasy IX
 
 Final Fantasy IX
 
+## Jogabilidade
+
+Final Fantasy IX
+
 ## Conclusão
 
 Final Fantasy IX

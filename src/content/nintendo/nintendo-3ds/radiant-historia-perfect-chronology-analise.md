@@ -9,6 +9,10 @@ Radiant Historia: Perfect Chronology
 
 Radiant Historia: Perfect Chronology
 
+## Jogabilidade
+
+Radiant Historia: Perfect Chronology
+
 ## Conclusão
 
 Radiant Historia: Perfect Chronology

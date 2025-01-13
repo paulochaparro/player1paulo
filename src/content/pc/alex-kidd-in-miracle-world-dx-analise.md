@@ -7,4 +7,16 @@ Alex Kidd in Miracle World DX
 
 ## Alex Kidd in Miracle World DX
 
-Alex Kidd in Miracle World
+Alex Kidd in Miracle World DX
+
+## Jogabilidade
+
+Alex Kidd in Miracle World DX
+
+## Conclusão
+
+Alex Kidd in Miracle World DX
+
+## Alex Kidd in Miracle World DX PC - Análise
+
+Alex Kidd in Miracle World DX

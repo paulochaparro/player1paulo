@@ -9,6 +9,10 @@ Emerald Dragon
 
 Emerald Dragon
 
+## Jogabilidade
+
+Emerald Dragon
+
 ## Conclusão
 
 Emerald Dragon

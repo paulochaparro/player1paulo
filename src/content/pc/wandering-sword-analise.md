@@ -9,6 +9,10 @@ Wandering Sword
 
 Wandering Sword
 
+## Jogabilidade
+
+Wandering Sword
+
 ## Conclusão
 
 Wandering Sword

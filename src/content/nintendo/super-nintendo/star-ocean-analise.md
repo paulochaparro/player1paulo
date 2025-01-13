@@ -9,6 +9,10 @@ Star Ocean
 
 Star Ocean
 
+## Jogabilidade
+
+Star Ocean
+
 ## Conclusão
 
 Star Ocean
