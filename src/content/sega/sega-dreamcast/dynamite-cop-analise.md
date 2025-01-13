@@ -12,3 +12,7 @@ Dynamite Cop
 ## Conclusão
 
 Dynamite Cop
+
+## Dynamite Cop Sega Dreamcast - Análise
+
+Dynamite Cop
