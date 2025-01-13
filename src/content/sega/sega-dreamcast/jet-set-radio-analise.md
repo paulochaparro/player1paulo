@@ -9,6 +9,10 @@ Jet Set Radio
 
 Jet Set Radio
 
+## Jogabilidade
+
+Jet Set Radio
+
 ## Conclusão
 
 Jet Set Radio

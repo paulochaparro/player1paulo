@@ -9,6 +9,10 @@ Breath of Fire: Dragon Quarter
 
 Breath of Fire: Dragon Quarter
 
+## Jogabilidade
+
+Breath of Fire: Dragon Quarter
+
 ## Conclusão
 
 Breath of Fire: Dragon Quarter

@@ -9,6 +9,10 @@ Final Fantasy Tactics
 
 Final Fantasy Tactics
 
+## Jogabilidade
+
+Fianl Fantasy Tactics
+
 ## Conclusão
 
 Final Fantasy Tactics

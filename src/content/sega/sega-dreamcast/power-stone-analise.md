@@ -9,6 +9,10 @@ Power Stone
 
 Power Stone
 
+## Jogabilidade
+
+Power Stone
+
 ## Conclusão
 
 Power Stone

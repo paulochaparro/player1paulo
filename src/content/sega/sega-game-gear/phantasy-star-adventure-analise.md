@@ -9,6 +9,10 @@ Phantasy Star Adventure
 
 Phantasy Star Adventure
 
+## Jogabilidade
+
+Phantasy Star Adventure
+
 ## Conclusão
 
 Phantasy Star Adventure

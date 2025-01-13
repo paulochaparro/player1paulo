@@ -9,6 +9,10 @@ Dynamite Cop
 
 Dynamite Cop
 
+## Jogabilidade
+
+Dynamite Cop
+
 ## Conclusão
 
 Dynamite Cop

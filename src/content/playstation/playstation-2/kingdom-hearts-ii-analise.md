@@ -9,6 +9,10 @@ Kingdom Hearts II
 
 Kingdom Hearts II
 
+## Jogabilidade
+
+Kingdom Hearts II
+
 ## Conclusão
 
 Kingdom Hearts II

@@ -9,6 +9,10 @@ Ristar
 
 Ristar
 
+## Jogabilidade
+
+Ristar
+
 ## Conclusão
 
 Ristar

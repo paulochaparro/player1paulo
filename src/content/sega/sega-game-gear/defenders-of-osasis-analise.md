@@ -9,6 +9,10 @@ Defenders of Oasis
 
 Defenders of Oasis
 
+## Jogabilidade
+
+Defenders of Oasis
+
 ## Conclusão
 
 Defenders of Oasis

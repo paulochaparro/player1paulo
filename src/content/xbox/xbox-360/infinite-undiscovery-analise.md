@@ -9,6 +9,10 @@ Infinite Undiscovery
 
 Infinite Undiscovery
 
+## Jogabilidade
+
+Infinite Undiscovery
+
 ## Conclusão
 
 Infinite Undiscovery

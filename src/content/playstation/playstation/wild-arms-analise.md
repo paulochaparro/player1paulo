@@ -9,6 +9,10 @@ Wild Arms
 
 Wild Arms
 
+## Jogabilidade
+
+Wild Arms
+
 ## Conclusão
 
 Wild Arms

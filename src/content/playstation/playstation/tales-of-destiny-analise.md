@@ -9,6 +9,10 @@ Tales of Destiny
 
 Tales of Destiny
 
+## Jogabilidade
+
+Tales of Destiny
+
 ## Conclusão
 
 Tales of Destiny

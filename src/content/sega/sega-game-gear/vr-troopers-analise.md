@@ -9,6 +9,10 @@ VR Troopers
 
 VR Troopers
 
+## Jogabilidade
+
+VR Troopers
+
 ## Conclusão
 
 VR Troopers

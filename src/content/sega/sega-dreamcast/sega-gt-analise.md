@@ -9,6 +9,10 @@ Sega GT
 
 Sega GT
 
+## Jogabilidade
+
+Sega GT
+
 ## Conclusão
 
 Sega GT

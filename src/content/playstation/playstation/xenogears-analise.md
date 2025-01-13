@@ -9,6 +9,10 @@ Xenogears
 
 Xenogears
 
+## Jogabilidade
+
+Xenogears
+
 ## Conclusão
 
 Xenogears

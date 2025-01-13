@@ -9,6 +9,10 @@ Tales of Rebirth
 
 Tales of Rebirth
 
+## Jogabilidade
+
+Tales of Rebirth
+
 ## Conclusão
 
 Tales of Rebirth

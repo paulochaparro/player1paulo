@@ -9,6 +9,10 @@ Rocket Knight Adventures
 
 Rocket Knight Adventures
 
+## Jogabilidade
+
+Rocket Knight Adventures
+
 ## Conclusão
 
 Rocket Knight Adventures

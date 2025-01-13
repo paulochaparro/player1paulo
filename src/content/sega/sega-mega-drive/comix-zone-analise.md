@@ -9,6 +9,10 @@ Comix Zone
 
 Comix Zone
 
+## Jogabilidade
+
+Comix Zone
+
 ## Conclusão
 
 Comix Zone

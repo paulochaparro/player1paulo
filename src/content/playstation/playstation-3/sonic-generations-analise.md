@@ -9,6 +9,10 @@ Sonic Generations
 
 Sonic Generations
 
+## Jogabilidade
+
+Sonic Generations
+
 ## Conclusão
 
 Sonic Generations

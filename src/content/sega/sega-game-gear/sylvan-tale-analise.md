@@ -9,6 +9,10 @@ Sylvan Tale
 
 Sylvan Tale
 
+## Jogabilidade
+
+Sylvan Tale
+
 ## Conclusão
 
 Sylvan Tale

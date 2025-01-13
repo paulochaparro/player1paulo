@@ -9,6 +9,10 @@ What's Shenmue
 
 What's Shenmue
 
+## Jogabilidade
+
+What's Shenmue
+
 ## Conclusão
 
 What's Shenmue

@@ -9,6 +9,10 @@ Final Fantasy XIII-2
 
 Final Fantasy XIII-2
 
+## Jogabilidade
+
+Final Fantasy XIII-2
+
 ## Conclusão
 
 Final Fantasy XIII-2

@@ -9,6 +9,10 @@ Streets of Rage 2
 
 Streets of Rage 2
 
+## Jogabilidade
+
+Streets of Rage 2
+
 ## Conclusão
 
 Streets of Rage 2

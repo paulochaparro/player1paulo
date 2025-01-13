@@ -9,6 +9,10 @@ Final Fantasy XII
 
 Final Fantasy XII
 
+## Jogabilidade
+
+Final Fantasy XII
+
 ## Conclusão
 
 Final Fantasy XII

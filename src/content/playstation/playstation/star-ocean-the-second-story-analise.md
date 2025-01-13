@@ -9,6 +9,10 @@ Star Ocean: The Second Story
 
 Star Ocean: The Second Story
 
+## Jogabilidade
+
+Star Ocean: The Second Story
+
 ## Conclusão
 
 Star Ocean: The Second Story

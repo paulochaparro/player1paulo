@@ -9,6 +9,10 @@ Treasure of the Rudras
 
 Treasure of the Rudras
 
+## Jogabilidade
+
+Treasure of the Rudras
+
 ## Conclusão
 
 Treasure of the Rudras

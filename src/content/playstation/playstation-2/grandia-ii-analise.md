@@ -9,6 +9,10 @@ Grandia
 
 Grandia II
 
+## Jogabilidade
+
+Grandia II
+
 ## Conclusão
 
 Grandia II

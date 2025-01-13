@@ -9,6 +9,10 @@ SaGa Frontier
 
 SaGa Frontier
 
+## Jogabilidade
+
+SaGa Frontier
+
 ## Conclusão
 
 SaGa Frontier

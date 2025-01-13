@@ -9,6 +9,10 @@ Blue Dragon
 
 Blue Dragon
 
+## Jogabilidade
+
+Blue Dragon
+
 ## Conclusão
 
 Blue Dragon

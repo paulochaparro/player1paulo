@@ -9,6 +9,10 @@ Arc the Lad III
 
 Arc the Lad III
 
+## Jogabilidade
+
+Arc the Lad III
+
 ## Conclusão
 
 Arc the Lad III

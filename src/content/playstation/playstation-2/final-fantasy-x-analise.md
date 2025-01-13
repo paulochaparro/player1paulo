@@ -9,6 +9,10 @@ Final Fantasy X
 
 Final Fantasy X
 
+## Jogabilidade
+
+Final Fantasy X
+
 ## Conclusão
 
 Final Fantasy X

@@ -9,6 +9,10 @@ Valkyria Chronicles
 
 Valkyria Chronicles
 
+## Jogabilidade
+
+Valkyria Chronicles
+
 ## Conclusão
 
 Valkyria Chronicles

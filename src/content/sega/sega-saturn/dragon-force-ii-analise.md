@@ -9,6 +9,10 @@ Dragon Force II
 
 Dragon Force II
 
+## Jogabilidade
+
+Dragon Force II
+
 ## Conclusão
 
 Dragon Force II

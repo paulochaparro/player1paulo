@@ -9,6 +9,10 @@ Sonic Adventure
 
 Sonic Adventure
 
+## Jogabilidade
+
+Sonic Adventure
+
 ## Conclusão
 
 Sonic Adventure

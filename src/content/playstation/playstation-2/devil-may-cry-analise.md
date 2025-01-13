@@ -9,6 +9,10 @@ Devil May Cry
 
 Devil May Cry
 
+## Jogabilidade
+
+Devil May Cry
+
 ## Conclusão
 
 Devil May Cry

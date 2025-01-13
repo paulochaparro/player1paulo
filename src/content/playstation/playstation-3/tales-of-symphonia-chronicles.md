@@ -13,6 +13,10 @@ Tales of Symphonia
 
 Tales of Symphonia: Dawn of the New World
 
+## Jogabilidade
+
+Tales of Symphonia: Dawn of the New World
+
 ## Conclusão
 
 Tales of Symphonia Chronicles

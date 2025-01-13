@@ -9,6 +9,10 @@ Live A Live
 
 Live A Live
 
+## Jogabilidade
+
+Live A Live
+
 ## Conclusão
 
 Live A Live

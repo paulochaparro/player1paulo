@@ -9,6 +9,10 @@ Breath of Fire IV
 
 Breath of Fire IV
 
+## Jogabilidade
+
+Breath of Fire IV
+
 ## Conclusão
 
 Breath of Fire IV

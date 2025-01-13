@@ -9,6 +9,10 @@ Parasite Eve
 
 Parasite Eve
 
+## Jogabilidade
+
+Parasite Eve
+
 ## Conclusão
 
 Parasite Eve

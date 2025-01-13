@@ -9,6 +9,10 @@ Grandia III
 
 Grandia III
 
+## Jogabilidade
+
+Grandia III
+
 ## Conclusão
 
 Grandia III

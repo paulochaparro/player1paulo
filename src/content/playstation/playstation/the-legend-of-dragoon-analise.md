@@ -9,6 +9,10 @@ The Legend of Dragoon
 
 The Legend of Dragoon
 
+## Jogabilidade
+
+The Legend of Dragoon
+
 ## Conclusão
 
 The Legend of Dragoon

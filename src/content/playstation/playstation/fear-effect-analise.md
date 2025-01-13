@@ -9,6 +9,10 @@ Fear Effect
 
 Fear Effect
 
+## Jogabilidade
+
+Fear Effect
+
 ## Conclusão
 
 Fear Effect

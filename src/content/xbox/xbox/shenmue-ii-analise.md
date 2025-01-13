@@ -9,6 +9,10 @@ Shenmue II
 
 Shenmue II
 
+## Jogabilidade
+
+Shenmue II
+
 ## Conclusão
 
 Shenmue II

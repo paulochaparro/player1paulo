@@ -9,6 +9,10 @@ Grandia
 
 Grandia
 
+## Jogabilidade
+
+Grandia
+
 ## Conclusão
 
 Grandia

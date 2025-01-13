@@ -9,6 +9,10 @@ Shining Force CD
 
 Shining Force CD
 
+## Jogabilidade
+
+Shining Force CD
+
 ## Conclusão
 
 Shining Force CD

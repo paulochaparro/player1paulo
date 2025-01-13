@@ -9,6 +9,10 @@ Crazy Taxi
 
 Crazy Taxi
 
+## Jogabilidade
+
+Crazy Taxi
+
 ## Conclusão
 
 Crazy Taxi

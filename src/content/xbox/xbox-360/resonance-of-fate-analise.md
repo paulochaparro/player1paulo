@@ -9,6 +9,10 @@ Resonance of Fate
 
 Resonance of Fate
 
+## Jogabilidade
+
+Resonance of Fate
+
 ## Conclusão
 
 Resonance of Fate

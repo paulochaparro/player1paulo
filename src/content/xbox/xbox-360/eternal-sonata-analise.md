@@ -9,6 +9,10 @@ Eternal Sonata
 
 Eternal Sonata
 
+## Jogabilidade
+
+Eternal Sonata
+
 ## Conclusão
 
 Eternal Sonata

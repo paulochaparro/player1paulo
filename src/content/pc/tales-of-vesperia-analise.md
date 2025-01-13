@@ -9,6 +9,10 @@ Tales of Vesperia
 
 Tales of Vesperia
 
+## Jogabilidade
+
+Tales of Vesperia
+
 ## Conclusão
 
 Tales of Vesperia

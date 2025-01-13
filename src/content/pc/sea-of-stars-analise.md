@@ -9,6 +9,10 @@ Sea of Stars
 
 Sea of Stars
 
+## Jogabilidade
+
+Sea of Stars
+
 ## Conclusão
 
 Sea of Stars
