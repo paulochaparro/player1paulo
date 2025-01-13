@@ -7,11 +7,15 @@ Bravely Second: End Layer
 
 ## Bravely Second: End Layer
 
-Braveley Second: End Layer
+Bravely Second: End Layer
+
+## Jogabilidade
+
+Bravely Second: End Layer
 
 ## Conclusão
 
-Braveley Second: End Layer
+Bravely Second: End Layer
 
 ## Bravely Second: End Layer Nintendo 3DS - Análise
 

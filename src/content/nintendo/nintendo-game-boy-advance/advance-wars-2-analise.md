@@ -9,7 +9,7 @@ Advance Wars 2
 
 Advance Wars 2
 
-## Jogablidade
+## Jogabilidade
 
 Advance Wars 2
 
