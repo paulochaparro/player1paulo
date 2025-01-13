@@ -9,6 +9,10 @@ Bravely Default
 
 Bravely Default
 
+## Jogabilidade
+
+Bravely Default
+
 ## Conclusão
 
 Bravely Default

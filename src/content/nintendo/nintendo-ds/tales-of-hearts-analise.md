@@ -9,6 +9,10 @@ Tales of Hearts
 
 Tales of Hearts
 
+## Jogabilidade
+
+Tales of Hearts
+
 ## Conclusão
 
 Tales of Hearts

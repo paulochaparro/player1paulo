@@ -9,6 +9,10 @@ Sonic Lost World
 
 Sonic Lost World
 
+## Jogabilidade
+
+Sonic Lost World
+
 ## Conclusão
 
 Sonic Lost World

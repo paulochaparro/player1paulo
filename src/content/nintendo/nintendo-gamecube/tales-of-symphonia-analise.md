@@ -9,7 +9,11 @@ Tales of Symphonia
 
 Tales of Symphonia
 
-## conclusão
+## Jogabilidade
+
+Tales of Symphonia
+
+## Conclusão
 
 Tales of Symphonia
 

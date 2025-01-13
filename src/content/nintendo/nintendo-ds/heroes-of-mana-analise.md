@@ -9,6 +9,10 @@ Heroes of Mana
 
 Heroes of Mana
 
+## Jogabilidade
+
+Heroes of Mana
+
 ## Conclusão
 
 Heroes of Mana

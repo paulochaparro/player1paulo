@@ -9,6 +9,10 @@ Final Fantasy Explorers
 
 Final Fantasy Explorers
 
+## Jogabilidade
+
+Final Fantasy Explorers
+
 ## Conclusão
 
 Final Fantasy Explorers

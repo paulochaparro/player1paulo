@@ -9,6 +9,10 @@ Advance Wars
 
 Advance Wars
 
+## Jogabilidade
+
+Advance Wars
+
 ## Conclusão
 
 Advance Wars

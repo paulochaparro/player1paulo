@@ -9,6 +9,10 @@ Sword of Mana
 
 Sword of Mana
 
+## Jogabilidade
+
+Sword of Mana
+
 ## Conclusão
 
 Sword of Mana

@@ -9,6 +9,10 @@ Breath of Fire
 
 Breath of Fire
 
+## Jogabilidade
+
+Breath of Fire
+
 ## Conclusão
 
 Breath of Fire

@@ -9,6 +9,10 @@ Guilty Gear X
 
 Guilty Gear X
 
+## Jogabilidade
+
+Guilty Gear X
+
 ## Conclusão
 
 Guilty Gear X

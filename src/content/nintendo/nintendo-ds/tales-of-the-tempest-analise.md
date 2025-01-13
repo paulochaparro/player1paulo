@@ -9,6 +9,10 @@ Tales of the Tempest
 
 Tales of the Tempest
 
+## Jogabilidade
+
+Tales of the Tempest
+
 ## Conclusão
 
 Tales of the Tempest

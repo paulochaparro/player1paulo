@@ -9,6 +9,10 @@ The King of Fighters XI
 
 The King of Fighters XI
 
+## Jogabilidade
+
+The King of Fighters XI
+
 ## Conclusão
 
 The King of Fighters XI

@@ -9,6 +9,14 @@ Super Mario Galaxy
 
 Super Mario Galaxy
 
+## Jogabilidade
+
+Super Mario Galaxy
+
+## Conclusão
+
+Super Mario Galaxy
+
 ## Super Mario Galaxy Nintendo Wii - Análise
 
 Super Mario Galaxy

@@ -9,6 +9,10 @@ Mario Kart 8 Deluxe
 
 Mario Kart 8 Deluxe
 
+## Jogabilidade
+
+Mario Kart 8 Deluxe
+
 ## Conclusão
 
 Mario Kart 8 Deluxe

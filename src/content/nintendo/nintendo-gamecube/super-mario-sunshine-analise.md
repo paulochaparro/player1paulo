@@ -9,6 +9,10 @@ Super Mario Sunshine
 
 Super Mario Sunshine
 
+## Jogabilidade
+
+Super Mario Sunshine
+
 ## Conclusão
 
 Super Mario Sunshine
