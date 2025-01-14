@@ -9,6 +9,10 @@ Triangle Strategy
 
 Triangle Strategy
 
+## Jogabilidade
+
+Triangle Strategy
+
 ## Conclusão
 
 Triangle Strategy

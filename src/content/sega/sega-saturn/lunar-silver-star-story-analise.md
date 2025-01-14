@@ -9,6 +9,10 @@ Lunar: Silver Star Story
 
 Lunar: Silver Star Story
 
+## Jogabilidade
+
+Lunar: Silver Star Story
+
 ## Conclusão
 
 Lunar: Silver Star Story
