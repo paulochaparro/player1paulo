@@ -9,6 +9,10 @@ The Bouncer
 
 The Bouncer
 
+## Jogabilidade
+
+The Bouncer
+
 ## Conclusão
 
 The Bouncer

@@ -1,22 +1,22 @@
 ---
 ---
 
-# Medievil - Análise
+# MediEvil - Análise
 
-Medievil
+MediEvil
 
-## Medievil
+## MediEvil
 
-Medievil
+MediEvil
 
 ## Jogabilidade
 
-Medievil
+MediEvil
 
 ## Conclusão
 
-Medievil
+MediEvil
 
-## Medievil PlayStation - Análise
+## MediEvil PlayStation - Análise
 
-Medievil
+MediEvil
