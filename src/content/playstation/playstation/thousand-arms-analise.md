@@ -15,8 +15,11 @@ Thousand Arms
 
 ## Gráficos
 
+Thousand Arms
 
 ## Som
+
+Thousand Arms
 
 ## Conclusão
 

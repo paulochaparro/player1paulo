@@ -15,8 +15,11 @@ Front Mission 2
 
 ## Gráficos
 
+Front Mission 2
 
 ## Som
+
+Front Mission 2
 
 ## Conclusão
 

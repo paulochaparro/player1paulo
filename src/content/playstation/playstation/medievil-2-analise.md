@@ -15,8 +15,11 @@ MediEvil 2
 
 ## Gráficos
 
+MediEvil 2
 
 ## Som
+
+MediEvil 2
 
 ## Conclusão
 

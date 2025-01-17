@@ -15,8 +15,11 @@ Tactics Ogre: Let Us Cling Together
 
 ## Gráficos
 
+Tactics Ogre: Let Us Cling Together
 
 ## Som
+
+Tactics Ogre: Let Us Cling Together
 
 ## Conclusão
 

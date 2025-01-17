@@ -15,8 +15,11 @@ Medarot R
 
 ## Gráficos
 
+Medarot R
 
 ## Som
+
+Medarot R
 
 ## Conclusão
 

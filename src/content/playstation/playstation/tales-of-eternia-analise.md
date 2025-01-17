@@ -15,8 +15,11 @@ Tales of Eternia
 
 ## Gráficos
 
+Tales of Eternia
 
 ## Som
+
+Tales of Eternia
 
 ## Conclusão
 

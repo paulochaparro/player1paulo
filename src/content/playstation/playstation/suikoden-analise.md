@@ -15,8 +15,11 @@ Suikoden
 
 ## Gráficos
 
+Suikoden
 
 ## Som
+
+Suikoden
 
 ## Conclusão
 

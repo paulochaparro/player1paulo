@@ -15,8 +15,11 @@ Parasite Eve
 
 ## Gráficos
 
+Parasite Eve
 
 ## Som
+
+Parasite Eve
 
 ## Conclusão
 

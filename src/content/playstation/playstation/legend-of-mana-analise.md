@@ -15,8 +15,11 @@ Legend of Mana
 
 ## Gráficos
 
+Legend of Mana
 
 ## Som
+
+Legend of Mana
 
 ## Conclusão
 

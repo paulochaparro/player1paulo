@@ -15,8 +15,11 @@ The Legend of Dragoon
 
 ## Gráficos
 
+The Legend of Dragoon
 
 ## Som
+
+The Legend of Dragoon
 
 ## Conclusão
 

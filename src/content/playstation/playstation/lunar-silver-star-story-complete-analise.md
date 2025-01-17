@@ -15,8 +15,11 @@ Lunar: Silver Star Story Complete
 
 ## Gráficos
 
+Lunar: Silver Star Story Complete
 
 ## Som
+
+Lunar: Silver Star Story Complete
 
 ## Conclusão
 

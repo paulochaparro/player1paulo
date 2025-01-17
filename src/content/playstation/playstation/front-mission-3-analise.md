@@ -7,20 +7,23 @@ Front Mission 3
 
 ## Front Mission 3
 
-Front Mission
+Front Mission 3
 
 ## Jogabilidade
 
-Front Mission
+Front Mission 3
 
 ## Gráficos
 
+Front Mission 3
 
 ## Som
 
+Front Mission 3
+
 ## Conclusão
 
-Front Mission
+Front Mission 3
 
 ## Front Mission 3 PlayStation - Análise
 

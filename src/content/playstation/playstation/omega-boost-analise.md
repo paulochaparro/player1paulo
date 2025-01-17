@@ -15,8 +15,11 @@ Omega Boost
 
 ## Gráficos
 
+Omega Boost
 
 ## Som
+
+Omega Boost
 
 ## Conclusão
 

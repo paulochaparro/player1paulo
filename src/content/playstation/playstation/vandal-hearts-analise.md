@@ -15,8 +15,11 @@ Vandal Hearts
 
 ## Gráficos
 
+Vandal Hearts
 
 ## Som
+
+Vandal Hearts
 
 ## Conclusão
 

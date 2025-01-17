@@ -15,8 +15,11 @@ Point Blank
 
 ## Gráficos
 
+Point Blank
 
 ## Som
+
+Point Blank
 
 ## Conclusão
 

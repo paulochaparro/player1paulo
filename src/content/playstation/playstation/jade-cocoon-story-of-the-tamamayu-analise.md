@@ -15,8 +15,11 @@ Jade Cocoon: Story of the Tamamayu
 
 ## Gráficos
 
+Jade Cocoon: Story of the Tamamayu
 
 ## Som
+
+Jade Cocoon: Story of the Tamamayu
 
 ## Conclusão
 

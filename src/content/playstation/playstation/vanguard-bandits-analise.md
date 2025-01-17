@@ -15,8 +15,11 @@ Vanguard Bandits
 
 ## Gráficos
 
+Vanguard Bandits
 
 ## Som
+
+Vanguard Bandits
 
 ## Conclusão
 

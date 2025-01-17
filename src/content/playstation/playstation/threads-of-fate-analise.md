@@ -15,8 +15,11 @@ Threads of Fate
 
 ## Gráficos
 
+Threads of Fate
 
 ## Som
+
+Threads of Fate
 
 ## Conclusão
 

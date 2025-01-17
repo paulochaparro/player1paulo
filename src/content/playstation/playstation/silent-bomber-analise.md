@@ -15,8 +15,11 @@ Silent Bomber
 
 ## Gráficos
 
+Silent Bomber
 
 ## Som
+
+Silent Bomber
 
 ## Conclusão
 

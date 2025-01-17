@@ -15,8 +15,11 @@ Ogre Battle: The March of the Black Queen
 
 ## Gráficos
 
+Ogre Battle: The March of the Black Queen
 
 ## Som
+
+Ogre Battle: The March of the Black Queen
 
 ## Conclusão
 

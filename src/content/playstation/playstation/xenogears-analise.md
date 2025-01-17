@@ -15,8 +15,11 @@ Xenogears
 
 ## Gráficos
 
+Xenogears
 
 ## Som
+
+Xenogears
 
 ## Conclusão
 

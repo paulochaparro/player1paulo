@@ -15,8 +15,11 @@ Metal Gear Solid
 
 ## Gráficos
 
+Metal Gear Solid
 
 ## Som
+
+Metal Gear Solid
 
 ## Conclusão
 

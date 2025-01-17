@@ -15,8 +15,11 @@ PaRappa the Rapper
 
 ## Gráficos
 
+PaRappa the Rapper
 
 ## Som
+
+PaRappa the Rapper
 
 ## Conclusão
 

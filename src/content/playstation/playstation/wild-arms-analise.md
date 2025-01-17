@@ -15,8 +15,11 @@ Wild Arms
 
 ## Gráficos
 
+Wild Arms
 
 ## Som
+
+Wild Arms
 
 ## Conclusão
 

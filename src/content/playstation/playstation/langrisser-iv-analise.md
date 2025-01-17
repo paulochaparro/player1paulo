@@ -15,8 +15,11 @@ Langrisser IV
 
 ## Gráficos
 
+Langrisser IV
 
 ## Som
+
+Langrisser IV
 
 ## Conclusão
 

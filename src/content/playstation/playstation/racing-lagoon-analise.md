@@ -15,8 +15,11 @@ Racing Lagoon
 
 ## Gráficos
 
+Racing Lagoon
 
 ## Som
+
+Racing Lagoon
 
 ## Conclusão
 

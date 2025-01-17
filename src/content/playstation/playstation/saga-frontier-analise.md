@@ -15,8 +15,11 @@ SaGa Frontier
 
 ## Gráficos
 
+SaGa Frontier
 
 ## Som
+
+SaGa Frontier
 
 ## Conclusão
 

@@ -15,8 +15,11 @@ Umm Jammer Lammy
 
 ## Gráficos
 
+Umm Jammer Lammy
 
 ## Som
+
+Umm Jammer Lammy
 
 ## Conclusão
 

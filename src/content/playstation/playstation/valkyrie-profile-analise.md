@@ -15,8 +15,11 @@ Valkyrie Profile
 
 ## Gráficos
 
+Valkyrie Profile
 
 ## Som
+
+Valkyrie Profile
 
 ## Conclusão
 
