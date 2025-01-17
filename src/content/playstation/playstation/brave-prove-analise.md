@@ -13,6 +13,11 @@ Brave Prove
 
 Brave Prove
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Brave Prove

@@ -13,6 +13,11 @@ Final Fantasy II 20th Anniversary Edition
 
 Final Fantasy II 20th Anniversary Edition
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Final Fantasy II 20th Anniversary Edition

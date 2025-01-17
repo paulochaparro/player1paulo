@@ -13,6 +13,11 @@ Sonic Adventure 2
 
 Sonic Adventure 2
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Sonic Adventure 2

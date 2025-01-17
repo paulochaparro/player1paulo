@@ -13,6 +13,11 @@ Secret of Mana
 
 Secret of Mana
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Secret of Mana

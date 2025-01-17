@@ -13,6 +13,11 @@ Final Fantasy XII: The Zodiac Age
 
 Final Fantasy XII: The Zodiac Age
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Final Fantasy XII: The Zodiac Age

@@ -13,6 +13,14 @@ Super Mario Sunshine
 
 Super Mario Sunshine
 
+## Gráficos
+
+Super Mario Sunshine
+
+## Som
+
+Super Mario Sunshine
+
 ## Conclusão
 
 Super Mario Sunshine

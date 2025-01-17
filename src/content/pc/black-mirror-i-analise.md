@@ -13,6 +13,11 @@ Black Mirror I
 
 Black Mirror I
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Black Mirror I

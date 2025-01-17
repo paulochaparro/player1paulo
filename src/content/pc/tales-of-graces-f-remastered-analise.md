@@ -13,6 +13,11 @@ Tales of Graces f Remastered
 
 Tales of Graces f Remastered
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Tales of Graces f Remastered

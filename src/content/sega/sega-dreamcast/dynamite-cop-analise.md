@@ -13,6 +13,11 @@ Dynamite Cop
 
 Dynamite Cop
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Dynamite Cop

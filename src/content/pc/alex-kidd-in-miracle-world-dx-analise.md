@@ -13,6 +13,11 @@ Alex Kidd in Miracle World DX
 
 Alex Kidd in Miracle World DX
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Alex Kidd in Miracle World DX

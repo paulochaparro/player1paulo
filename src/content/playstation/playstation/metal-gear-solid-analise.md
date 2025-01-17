@@ -13,6 +13,11 @@ Metal Gear Solid
 
 Metal Gear Solid
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Metal Gear Solid

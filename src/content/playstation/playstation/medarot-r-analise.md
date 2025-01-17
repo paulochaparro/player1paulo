@@ -13,6 +13,11 @@ Medarot R
 
 Medarot R
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Medarot R

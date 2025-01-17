@@ -13,6 +13,14 @@ Pokémon Shield
 
 Pokémon Shield
 
+## Gráficos
+
+Pokémon Shield
+
+## Som
+
+Pokémon Shield
+
 ## Conclusão
 
 Pokémon Shield

@@ -13,6 +13,11 @@ Grandia HD Remaster
 
 Grandia HD Remaster
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Grandia HD Remaster

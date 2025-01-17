@@ -13,6 +13,11 @@ Tales of Phantasia
 
 Tales of Phantasia
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Tales of Phantasia

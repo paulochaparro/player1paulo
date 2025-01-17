@@ -13,6 +13,14 @@ Tactics Ogre: The Knight of Lodis
 
 Tactics Ogre: The Knight of Lodis
 
+## Gráficos
+
+Tactics Ogre: The Knight of Lodis
+
+## Som
+
+Tactics Ogre: The Knight of Lodis
+
 ## Conclusão
 
 Tactics Ogre: The Knight of Lodis

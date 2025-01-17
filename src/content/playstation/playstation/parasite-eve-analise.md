@@ -13,6 +13,11 @@ Parasite Eve
 
 Parasite Eve
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Parasite Eve

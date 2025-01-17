@@ -13,6 +13,11 @@ Bravely Default II
 
 Bravely Default II
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Bravely Default II

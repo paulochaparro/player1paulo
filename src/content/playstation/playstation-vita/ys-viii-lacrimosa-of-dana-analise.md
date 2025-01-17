@@ -13,6 +13,11 @@ Ys VIII: Lacrimosa of Dana
 
 Ys VIII: Lacrimosa of Dana
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Ys VIII: Lacrimosa of Dana

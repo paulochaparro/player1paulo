@@ -13,6 +13,14 @@ Heroes of Mana
 
 Heroes of Mana
 
+## Gráficos
+
+Heroes of Mana
+
+## Som
+
+Heroes of Mana
+
 ## Conclusão
 
 Heroes of Mana

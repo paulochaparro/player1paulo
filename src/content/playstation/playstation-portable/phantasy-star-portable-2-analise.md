@@ -13,6 +13,11 @@ Phantasy Star Portable 2
 
 Phantasy Star Portable 2
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Phantasy Star Portable 2

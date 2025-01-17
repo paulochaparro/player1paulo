@@ -13,6 +13,14 @@ Sonic Rush Adventure
 
 Sonic Rush Adventure
 
+## Gráficos
+
+Sonic Rush Adventure
+
+## Som
+
+Sonic Rush Adventure
+
 ## Conclusão
 
 Sonic Rush Adventure

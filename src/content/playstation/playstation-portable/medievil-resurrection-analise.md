@@ -13,6 +13,11 @@ MediEvil: Resurrection
 
 MediEvil: Resurrection
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 MediEvil: Resurrection

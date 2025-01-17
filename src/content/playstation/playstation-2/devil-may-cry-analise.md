@@ -13,6 +13,11 @@ Devil May Cry
 
 Devil May Cry
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Devil May Cry

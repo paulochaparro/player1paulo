@@ -13,6 +13,11 @@ Ape Escape 2
 
 Ape Escape 2
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Ape Escape 2

@@ -13,6 +13,11 @@ Tales of Vesperia
 
 Tales of Vesperia
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Tales of Vesperia

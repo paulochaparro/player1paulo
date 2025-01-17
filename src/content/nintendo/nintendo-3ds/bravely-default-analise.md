@@ -13,6 +13,14 @@ Bravely Default
 
 Bravely Default
 
+## Gráficos
+
+Bravely Default
+
+## Som
+
+Bravely Default
+
 ## Conclusão
 
 Bravely Default

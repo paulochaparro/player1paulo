@@ -13,6 +13,11 @@ Tales of Eternia
 
 Tales of Eternia
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Tales of Eternia

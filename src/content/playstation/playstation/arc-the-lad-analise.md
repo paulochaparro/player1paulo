@@ -13,6 +13,11 @@ Arc the Lad
 
 Arc the Lad
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Arc the Lad

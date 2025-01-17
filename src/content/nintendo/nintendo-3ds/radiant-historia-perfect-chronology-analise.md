@@ -13,6 +13,14 @@ Radiant Historia: Perfect Chronology
 
 Radiant Historia: Perfect Chronology
 
+## Gráficos
+
+Radiant Historia: Perfect Chronology
+
+## Som
+
+Radiant Historia: Perfect Chronology
+
 ## Conclusão
 
 Radiant Historia: Perfect Chronology

@@ -13,6 +13,14 @@ Sonic Lost World
 
 Sonic Lost World
 
+## Gráficos
+
+Sonic Lost World
+
+## Som
+
+Sonic Lost World
+
 ## Conclusão
 
 Sonic Lost World

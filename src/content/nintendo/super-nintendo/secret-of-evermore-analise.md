@@ -13,6 +13,11 @@ Secret of Evermore
 
 Secret of Evermore
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Secret of Evermore

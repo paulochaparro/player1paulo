@@ -13,6 +13,11 @@ Lost Sphear
 
 Lost Sphear
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Lost Sphear

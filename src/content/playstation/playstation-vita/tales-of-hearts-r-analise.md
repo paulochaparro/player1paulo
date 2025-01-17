@@ -13,6 +13,11 @@ Tales of Hearts R
 
 Tales of Hearts R
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Tales of Hearts R

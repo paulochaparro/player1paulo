@@ -13,6 +13,11 @@ Tales of Arise
 
 Tales of Arise
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Tales of Arise

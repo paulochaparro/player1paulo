@@ -13,6 +13,11 @@ Ys X: Nordics
 
 Ys X: Nordics
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Ys X: Nordics

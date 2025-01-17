@@ -13,6 +13,11 @@ Sega GT
 
 Sega GT
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Sega GT

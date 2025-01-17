@@ -13,6 +13,11 @@ Final Fantasy XIII
 
 Final Fantasy XIII
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Final Fantasy XIII

@@ -13,6 +13,11 @@ Sega Rally Revo
 
 Sega Rally Revo
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Sega Rally Revo

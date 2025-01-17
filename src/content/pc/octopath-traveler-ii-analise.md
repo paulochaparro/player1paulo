@@ -13,6 +13,11 @@ Octopath Traveler II
 
 Octopath Traveler II
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Octopath Traveler II

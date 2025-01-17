@@ -13,6 +13,11 @@ Resonance of Fate 4K HD Edition
 
 Resonance of Fate 4K HD Edition
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Resonance of Fate 4K HD Edition

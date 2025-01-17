@@ -13,6 +13,11 @@ R-Type Delta
 
 R-Type Delta
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 R-Type Delta

@@ -13,6 +13,11 @@ Advance Wars
 
 Advance Wars
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Advance Wars

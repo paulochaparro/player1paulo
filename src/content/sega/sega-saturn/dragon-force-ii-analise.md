@@ -13,6 +13,11 @@ Dragon Force II
 
 Dragon Force II
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Dragon Force II

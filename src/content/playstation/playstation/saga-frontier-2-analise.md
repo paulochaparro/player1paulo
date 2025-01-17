@@ -13,6 +13,11 @@ SaGa Frontier 2
 
 SaGa Frontier 2
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 SaGa Frontier 2

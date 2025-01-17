@@ -13,6 +13,11 @@ Romancing SaGa
 
 Romancing SaGa
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Romancing SaGa

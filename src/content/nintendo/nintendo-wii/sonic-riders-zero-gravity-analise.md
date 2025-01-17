@@ -13,6 +13,11 @@ Sonic Riders: Zero Gravity
 
 Sonic Riders: Zero Gravity
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Sonic Riders: Zero Gravity

@@ -13,6 +13,11 @@ Red Steel 2
 
 Red Steel 2
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Red Steel 2

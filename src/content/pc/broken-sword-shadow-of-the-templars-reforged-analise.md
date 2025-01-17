@@ -13,6 +13,11 @@ Broken Sword: Shadow of the Templars Reforged
 
 Broken Sword: Shadow of the Templars Reforged
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Broken Sword: Shadow of the Templars Reforged

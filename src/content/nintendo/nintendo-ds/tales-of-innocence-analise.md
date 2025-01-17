@@ -13,6 +13,14 @@ Tales of Innocence
 
 Tales of Innocence
 
+## Gráficos
+
+Tales of Innocence
+
+## Som
+
+Tales of Innocence
+
 ## Conclusão
 
 Tales of Innocence

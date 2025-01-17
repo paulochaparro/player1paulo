@@ -13,6 +13,14 @@ Final Fantasy Explorers
 
 Final Fantasy Explorers
 
+## Gráficos
+
+Final Fantasy Explorers
+
+## Som
+
+Final Fantasy Explorers
+
 ## Conclusão
 
 Final Fantasy Explorers

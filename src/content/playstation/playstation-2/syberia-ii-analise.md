@@ -13,6 +13,11 @@ Syberia II
 
 Syberia II
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Syberia II

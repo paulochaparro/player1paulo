@@ -13,6 +13,11 @@ Lunar: Silver Star Harmony
 
 Lunar: Silver Star Harmony
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Lunar: Silver Star Harmony

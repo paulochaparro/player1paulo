@@ -13,6 +13,14 @@ Ultimate NES Remix
 
 Ultimate NES Remix
 
+## Gráficos
+
+Ultimate NES Remix
+
+## Som
+
+Ultimate NES Remix
+
 ## Conclusão
 
 Ultimate NES Remix

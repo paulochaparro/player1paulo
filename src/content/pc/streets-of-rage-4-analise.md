@@ -13,6 +13,11 @@ Streets of Rage 4
 
 Streets of Rage 4
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Streets of Rage 4

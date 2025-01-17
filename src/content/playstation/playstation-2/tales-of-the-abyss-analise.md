@@ -13,6 +13,11 @@ Tales of the Abyss
 
 Tales of the Abyss
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Tales of the Abyss

@@ -13,6 +13,14 @@ Blood of Bahamut
 
 Blood of Bahamut
 
+## Gráficos
+
+Blood of Bahamut
+
+## Som
+
+Blood of Bahamut
+
 ## Conclusão
 
 Blood of Bahamut

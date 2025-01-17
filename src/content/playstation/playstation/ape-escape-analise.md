@@ -13,6 +13,11 @@ Ape Escape
 
 Ape Escape
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Ape Escape

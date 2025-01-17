@@ -13,6 +13,11 @@ Xenoblade Chronicles
 
 Xenoblade Chronicles
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Xenoblade Chronicles

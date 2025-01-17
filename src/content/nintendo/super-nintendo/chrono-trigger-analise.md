@@ -13,6 +13,11 @@ Chrono Trigger
 
 Chrono Trigger
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Chrono Trigger

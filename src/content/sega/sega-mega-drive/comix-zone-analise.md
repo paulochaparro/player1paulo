@@ -13,6 +13,11 @@ Comix Zone
 
 Comix Zone
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Comix Zone

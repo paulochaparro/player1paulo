@@ -13,6 +13,11 @@ Legend of Legaia
 
 Legend of Legaia
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Legend of Legaia

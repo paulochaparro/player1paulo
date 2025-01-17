@@ -13,6 +13,11 @@ Star Ocean: The Second Story
 
 Star Ocean: The Second Story
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Star Ocean: The Second Story

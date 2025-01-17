@@ -13,6 +13,11 @@ SaGa Frontier Remastered
 
 SaGa Frontier Remastered
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 SaGa Frontier Remastered

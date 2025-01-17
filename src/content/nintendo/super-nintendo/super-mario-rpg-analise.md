@@ -13,6 +13,11 @@ Super Mario RPG
 
 Super Mario RPG
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Super Mario RPG

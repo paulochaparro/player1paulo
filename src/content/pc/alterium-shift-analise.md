@@ -13,6 +13,11 @@ Alterium Shift
 
 Alterium Shift
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Alterium Shift

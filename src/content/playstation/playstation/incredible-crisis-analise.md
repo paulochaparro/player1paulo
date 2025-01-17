@@ -13,6 +13,11 @@ Incredible Crisis
 
 Incredible Crisis
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Incredible Crisis

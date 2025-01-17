@@ -13,6 +13,11 @@ Romancing SaGa 3
 
 Romancing SaGa 3
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Romancing SaGa 3

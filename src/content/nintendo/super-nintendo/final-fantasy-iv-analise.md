@@ -13,6 +13,11 @@ Final Fantasy IV
 
 Final Fantasy IV
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Final Fantasy IV

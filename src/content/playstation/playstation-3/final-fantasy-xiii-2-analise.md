@@ -13,6 +13,11 @@ Final Fantasy XIII-2
 
 Final Fantasy XIII-2
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Final Fantasy XIII-2

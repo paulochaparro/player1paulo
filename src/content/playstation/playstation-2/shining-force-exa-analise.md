@@ -13,6 +13,11 @@ Shining Force EXA
 
 Shining Force EXA
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Shining Force EXA

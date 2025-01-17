@@ -13,6 +13,14 @@ Tales of Hearts
 
 Tales of Hearts
 
+## Gráficos
+
+Tales of Hearts
+
+## Som
+
+Tales of Hearts
+
 ## Conclusão
 
 Tales of Hearts

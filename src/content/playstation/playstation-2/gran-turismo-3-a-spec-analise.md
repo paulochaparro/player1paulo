@@ -9,6 +9,11 @@ Gran Turismo 3: A-Spec
 
 Gran Turismo 3: A-Spec
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Gran Turismo 3: A-Spec

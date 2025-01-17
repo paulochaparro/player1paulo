@@ -13,6 +13,11 @@ Grandia II
 
 Grandia II
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Grandia II

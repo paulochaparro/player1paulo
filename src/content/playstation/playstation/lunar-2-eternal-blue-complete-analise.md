@@ -13,6 +13,11 @@ Lunar 2: Eternal Blue Complete
 
 Lunar 2: Eternal Blue Complete
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Lunar 2: Eternal Blue Complete

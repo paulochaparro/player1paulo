@@ -13,6 +13,11 @@ Time Crisis
 
 Time Crisis
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Time Crisis

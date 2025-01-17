@@ -13,6 +13,11 @@ Syberia
 
 Syberia
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Syberia

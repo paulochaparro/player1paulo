@@ -13,6 +13,11 @@ Sand Land: The Game
 
 Sand Land: The Game
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Sand Land: The Game

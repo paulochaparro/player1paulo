@@ -13,6 +13,14 @@ Pokémon Scarlet
 
 Pokémon Scarlet
 
+## Gráficos
+
+Pokémon Scarlet
+
+## Som
+
+Pokémon Scarlet
+
 ## Conclusão
 
 Pokémon Scarlet

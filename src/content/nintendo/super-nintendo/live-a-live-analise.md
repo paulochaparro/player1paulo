@@ -13,6 +13,11 @@ Live A Live
 
 Live A Live
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Live A Live

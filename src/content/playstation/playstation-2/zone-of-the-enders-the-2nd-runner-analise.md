@@ -13,6 +13,11 @@ Zone of the Enders: The 2nd Runner
 
 Zone of the Enders: The 2nd Runner
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Zone of the Enders: The 2nd Runner

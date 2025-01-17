@@ -13,6 +13,11 @@ Chrono Cross
 
 Chrono Cross
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Chrono Cross

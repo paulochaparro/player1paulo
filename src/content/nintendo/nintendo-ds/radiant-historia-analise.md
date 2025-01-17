@@ -13,6 +13,14 @@ Radiant Historia
 
 Radiant Historia
 
+## Gráficos
+
+Radiant Historia
+
+## Som
+
+Radiant Historia
+
 ## Conclusão
 
 Radiant Historia

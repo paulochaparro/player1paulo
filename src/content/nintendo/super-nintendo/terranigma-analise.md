@@ -13,6 +13,11 @@ Terranigma
 
 Terranigma
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Terranigma

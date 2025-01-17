@@ -13,6 +13,11 @@ Final Fantasy VI
 
 Final Fantasy VI
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Final Fantasy VI

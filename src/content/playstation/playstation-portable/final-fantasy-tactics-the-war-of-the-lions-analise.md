@@ -13,6 +13,11 @@ Final Fantasy Tactics: The War of the Lions
 
 Final Fantasy Tactics: The War of the Lions
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Final Fantasy Tactics: The War of the Lions

@@ -13,6 +13,11 @@ Crisis Core: Final Fantasy VII
 
 Crisis Core: Final Fantasy VII
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Crisis Core: Final Fantasy VII

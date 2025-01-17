@@ -13,6 +13,11 @@ Black Mirror II
 
 Black Mirror II
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Black Mirror II

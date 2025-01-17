@@ -13,6 +13,11 @@ PaRappa the Rapper
 
 PaRappa the Rapper
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 PaRappa the Rapper

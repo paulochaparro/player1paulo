@@ -13,6 +13,11 @@ Final Fantasy IX
 
 Final Fantasy IX
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Final Fantasy IX

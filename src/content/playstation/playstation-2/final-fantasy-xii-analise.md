@@ -13,6 +13,11 @@ Final Fantasy XII
 
 Final Fantasy XII
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Final Fantasy XII

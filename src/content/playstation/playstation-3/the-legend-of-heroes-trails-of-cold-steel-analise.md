@@ -13,6 +13,11 @@ The Legend of Heroes: Trails of Cold Steel
 
 The Legend of Heroes: Trails of Cold Steel
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 The Legend of Heroes: Trails of Cold Steel

@@ -13,6 +13,14 @@ Super Mario Odyssey
 
 Super Mario Odyssey
 
+## Gráficos
+
+Super Mario Odyssey
+
+## Som
+
+Super Mario Odyssey
+
 ## Conclusão
 
 Super Mario Odyssey

@@ -13,6 +13,11 @@ Final Fantasy V Advance
 
 Final Fantasy V Advance
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Final Fantasy V Advance

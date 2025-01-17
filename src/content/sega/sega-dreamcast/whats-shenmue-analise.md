@@ -13,6 +13,11 @@ What's Shenmue
 
 What's Shenmue
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 What's Shenmue

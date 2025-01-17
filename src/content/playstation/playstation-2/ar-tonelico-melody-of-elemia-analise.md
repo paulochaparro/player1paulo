@@ -13,6 +13,11 @@ Ar Tonelico: Melody of Elemia
 
 Ar Tonelico: Melody of Elemia
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Ar Tonelico: Melody of Elemia

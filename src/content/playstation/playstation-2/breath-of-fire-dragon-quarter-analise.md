@@ -13,6 +13,10 @@ Breath of Fire: Dragon Quarter
 
 Breath of Fire: Dragon Quarter
 
+## Gráficos
+
+## Som
+
 ## Conclusão
 
 Breath of Fire: Dragon Quarter

@@ -13,6 +13,11 @@ Xenogears
 
 Xenogears
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Xenogears

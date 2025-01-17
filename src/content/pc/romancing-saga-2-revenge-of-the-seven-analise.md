@@ -13,6 +13,11 @@ Romancing SaGa 2: Revenge of the Seven
 
 Romancing SaGa 2: Revenge of the Seven
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Romancing SaGa 2: Revenge of the Seven

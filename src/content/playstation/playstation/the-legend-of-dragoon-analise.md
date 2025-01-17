@@ -13,6 +13,11 @@ The Legend of Dragoon
 
 The Legend of Dragoon
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 The Legend of Dragoon

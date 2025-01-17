@@ -13,6 +13,11 @@ Tales of Destiny
 
 Tales of Destiny
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Tales of Destiny

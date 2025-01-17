@@ -13,6 +13,11 @@ Final Fantasy VI Advance
 
 Final Fantasy VI Advance
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Final Fantasy VI Advance

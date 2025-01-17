@@ -13,6 +13,11 @@ Sylvan Tale
 
 Sylvan Tale
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Sylvan Tale

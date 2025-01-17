@@ -13,6 +13,11 @@ Rival Schools: United By Fate
 
 Rival Schools: United By Fate
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Rival Schools: United By Fate

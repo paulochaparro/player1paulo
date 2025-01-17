@@ -13,6 +13,11 @@ Trials of Mana
 
 Trials of Mana
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Trials of Mana

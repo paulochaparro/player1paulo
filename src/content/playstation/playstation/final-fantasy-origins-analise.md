@@ -21,6 +21,11 @@ Final Fantasy II
 
 Final Fantasy Origins
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Final Fantasy Origins

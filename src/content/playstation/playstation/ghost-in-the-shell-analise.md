@@ -13,6 +13,11 @@ Ghost in the Shell
 
 Ghost in the Shell
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Ghost in the Shell

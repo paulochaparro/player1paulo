@@ -13,6 +13,11 @@ The Legend of Heroes: Trails in the Sky
 
 The Legend of Heroes: Trails in the Sky
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 The Legend of Heroes: Trails in the Sky

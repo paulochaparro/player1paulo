@@ -13,6 +13,11 @@ Advance Wars 2
 
 Advance Wars 2
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Advance Wars 2

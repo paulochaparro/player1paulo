@@ -13,6 +13,11 @@ Super Mario Galaxy
 
 Super Mario Galaxy
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Super Mario Galaxy

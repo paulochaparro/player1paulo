@@ -13,6 +13,11 @@ Illusion of Gaia
 
 Illusion of Gaia
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Illusion of Gaia

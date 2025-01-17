@@ -9,6 +9,14 @@ Grandia Xtreme
 
 Grandia Xtreme
 
+## Jogabilidade
+
+Grandia Xtreme
+
+## Gráficos
+
+## Som
+
 ## Conclusão
 
 Grandia Xtreme

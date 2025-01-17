@@ -13,6 +13,14 @@ Phantasy Star Collection
 
 Phantasy Star Collection
 
+## Gráficos
+
+Phantasy Star Collection
+
+## Som
+
+Phantasy Star Collection
+
 ## Conclusão
 
 Phantasy Star Collection

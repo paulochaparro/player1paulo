@@ -9,6 +9,11 @@ Sega Rally 2006
 
 Sega Rally 2006
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Sega Rally 2006

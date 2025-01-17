@@ -13,6 +13,11 @@ Last Ranker
 
 Last Ranker
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Last Ranker

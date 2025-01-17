@@ -13,6 +13,11 @@ Wild Arms
 
 Wild Arms
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Wild Arms

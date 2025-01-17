@@ -13,6 +13,11 @@ Fear Effect 2: Retro Helix
 
 Fear Effect 2: Retro Helix
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Fear Effect 2: Retro Helix

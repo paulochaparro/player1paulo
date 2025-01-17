@@ -13,6 +13,11 @@ Skies of Arcadia
 
 Skies of Arcadia
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Skies of Arcadia

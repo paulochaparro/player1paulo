@@ -13,6 +13,11 @@ Ape Escape: On The Loose
 
 Ape Escape: On The Loose
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Ape Escape: On The Loose

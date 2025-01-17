@@ -13,6 +13,11 @@ Super Mario Galaxy 2
 
 Super Mario Galaxy 2
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Super Mario Galaxy 2

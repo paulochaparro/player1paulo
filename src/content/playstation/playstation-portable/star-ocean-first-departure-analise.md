@@ -13,6 +13,11 @@ Star Ocean: First Departure
 
 Star Ocean: First Departure
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Star Ocean: First Departure

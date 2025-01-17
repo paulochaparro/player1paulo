@@ -17,6 +17,11 @@ Tales of Symphonia: Dawn of the New World
 
 Tales of Symphonia: Dawn of the New World
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Tales of Symphonia Chronicles

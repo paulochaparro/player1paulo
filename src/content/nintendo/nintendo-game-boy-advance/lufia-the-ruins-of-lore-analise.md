@@ -13,6 +13,11 @@ Lufia: The Ruins of Lore
 
 Lufia: The Ruins of Lore
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Lufia: The Ruins of Lore

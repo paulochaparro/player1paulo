@@ -13,6 +13,14 @@ Metal Gear Solid: The Twin Snakes
 
 Metal Gear Solid: The Twin Snakes
 
+## Gráficos
+
+Metal Gear Solid: The Twin Snakes
+
+## Som
+
+Metal Gear Solid: The Twin Snakes
+
 ## Conclusão
 
 Metal Gear Solid: The Twin Snakes

@@ -13,6 +13,11 @@ Jade Cocoon: Story of the Tamamayu
 
 Jade Cocoon: Story of the Tamamayu
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Jade Cocoon: Story of the Tamamayu

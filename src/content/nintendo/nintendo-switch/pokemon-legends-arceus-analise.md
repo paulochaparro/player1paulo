@@ -13,6 +13,14 @@ Pokémon Legends Arceus
 
 Pokémon Legends Arceus
 
+## Gráficos
+
+Pokémon Legends Arceus
+
+## Som
+
+Pokémon Legends Arceus
+
 ## Conclusão
 
 Pokémon Legends Arceus

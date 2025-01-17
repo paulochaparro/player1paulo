@@ -13,6 +13,11 @@ Triangle Strategy
 
 Triangle Strategy
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Triangle Strategy

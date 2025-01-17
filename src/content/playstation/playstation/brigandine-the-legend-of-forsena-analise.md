@@ -13,6 +13,11 @@ Brigandine: The Legend of Forsena
 
 Brigandine: The Legend of Forsena
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Brigandine: The Legend of Forsena

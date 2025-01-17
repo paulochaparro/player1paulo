@@ -13,6 +13,11 @@ Ys: Memories of Celceta
 
 Ys: Memories of Celceta
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Ys: Memories of Celceta

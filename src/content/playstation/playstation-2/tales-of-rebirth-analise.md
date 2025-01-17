@@ -13,6 +13,11 @@ Tales of Rebirth
 
 Tales of Rebirth
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Tales of Rebirth

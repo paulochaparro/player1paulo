@@ -13,6 +13,11 @@ Shining Force Neo
 
 Shining Force Neo
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Shining Force Neo

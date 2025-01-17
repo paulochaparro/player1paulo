@@ -13,6 +13,14 @@ Bravely Second: End Layer
 
 Bravely Second: End Layer
 
+## Gráficos
+
+Bravely Second: End Layer
+
+## Som
+
+Bravely Second: End Layer
+
 ## Conclusão
 
 Bravely Second: End Layer

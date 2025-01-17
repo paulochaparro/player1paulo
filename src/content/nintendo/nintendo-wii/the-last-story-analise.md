@@ -13,6 +13,11 @@ The Last Story
 
 The Last Story
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 The Last Story

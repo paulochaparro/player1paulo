@@ -13,6 +13,11 @@ PaRappa The Rapper 2
 
 PaRappa The Rapper 2
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 PaRappa The Rapper 2

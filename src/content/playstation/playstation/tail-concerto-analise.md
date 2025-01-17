@@ -13,6 +13,11 @@ Tail Concerto
 
 Tail Concerto
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Tail Concerto

@@ -13,6 +13,14 @@ From the Abyss
 
 From the Abyss
 
+## Gráficos
+
+From the Abyss
+
+## Som
+
+From the Abyss
+
 ## Conclusão
 
 From the Abyss

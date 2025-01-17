@@ -13,6 +13,11 @@ Final Fantasy X
 
 Final Fantasy X
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Final Fantasy X

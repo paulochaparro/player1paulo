@@ -13,6 +13,14 @@ Sonic Superstars
 
 Sonic Superstars
 
+## Gráficos
+
+Sonic Superstars
+
+## Som
+
+Sonic Superstars
+
 ## Conclusão
 
 Sonic Superstars

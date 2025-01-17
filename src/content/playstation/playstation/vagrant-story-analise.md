@@ -13,6 +13,11 @@ Vagrant Story
 
 Vagrant Story
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Vagrant Story

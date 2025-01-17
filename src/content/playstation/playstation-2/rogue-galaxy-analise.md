@@ -13,6 +13,11 @@ Rogue Galaxy
 
 Rogue Galaxy
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Rogue Galaxy

@@ -13,6 +13,14 @@ Tales of the Tempest
 
 Tales of the Tempest
 
+## Gráficos
+
+Tales of the Tempest
+
+## Som
+
+Tales of the Tempest
+
 ## Conclusão
 
 Tales of the Tempest

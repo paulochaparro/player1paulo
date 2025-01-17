@@ -13,6 +13,11 @@ Ys Origin
 
 Ys Origin
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Ys Origin

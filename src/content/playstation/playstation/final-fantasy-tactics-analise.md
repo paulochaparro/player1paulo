@@ -13,6 +13,11 @@ Final Fantasy Tactics
 
 Fianl Fantasy Tactics
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Final Fantasy Tactics

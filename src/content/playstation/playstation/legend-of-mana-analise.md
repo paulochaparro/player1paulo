@@ -13,6 +13,11 @@ Legend of Mana
 
 Legend of Mana
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Legend of Mana

@@ -13,6 +13,14 @@ Pokkén Tournament DX
 
 Pokkén Tournament DX
 
+## Gráficos
+
+Pokkén Tournament DX
+
+## Som
+
+Pokkén Tournament DX
+
 ## Conclusão
 
 Pokkén Tournament DX

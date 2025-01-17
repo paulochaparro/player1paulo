@@ -13,6 +13,14 @@ Arc Rise Fantasia
 
 Arc Rise Fantasia
 
+## Gráficos
+
+Arc Rise Fantasia
+
+## Som
+
+Arc Rise Fantasia
+
 ## Conclusão
 
 Arc Rise Fantasia

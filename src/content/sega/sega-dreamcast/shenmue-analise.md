@@ -13,6 +13,11 @@ Shenmue
 
 Shenmue
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Shenmue

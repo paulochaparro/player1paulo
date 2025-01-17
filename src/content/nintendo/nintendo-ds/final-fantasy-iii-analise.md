@@ -11,7 +11,15 @@ Final Fantasy III
 
 ## Jogabilidade
 
-Fianl Fantasy III
+Final Fantasy III
+
+## Gráficos
+
+Final Fantasy III
+
+## Som
+
+Final Fantasy III
 
 ## Conclusão
 

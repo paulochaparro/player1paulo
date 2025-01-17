@@ -13,6 +13,11 @@ Star Ocean: Second Evolution
 
 Star Ocean: Second Evolution
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Star Ocean: Second Evolution

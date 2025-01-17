@@ -13,6 +13,11 @@ Tales of Xillia 2
 
 Tales of Xillia 2
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Tales of Xillia 2

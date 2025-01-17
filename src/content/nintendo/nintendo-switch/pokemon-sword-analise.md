@@ -13,6 +13,14 @@ Pokémon Sword
 
 Pokémon Sword
 
+## Gráficos
+
+Pokémon Sword
+
+## Som
+
+Pokémon Sword
+
 ## Conclusão
 
 Pokémon Sword

@@ -13,6 +13,14 @@ Xenoblade Chronicles 3
 
 Xenoblade Chronicles 3
 
+## Gráficos
+
+Xenoblade Chronicles 3
+
+## Som
+
+Xenoblade Chronicles 3
+
 ## Conclusão
 
 Xenoblade Chronicles 3

@@ -13,6 +13,11 @@ Kona
 
 Kona
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Kona

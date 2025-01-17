@@ -11,7 +11,15 @@ Phantasy Star 0
 
 ## Jogabilidade
 
-Phantasy Star 0s
+Phantasy Star 0
+
+## Gráficos
+
+Phantasy Star 0
+
+## Som
+
+Phantasy Star 0
 
 ## Conclusão
 

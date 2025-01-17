@@ -13,6 +13,11 @@ The Bouncer
 
 The Bouncer
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 The Bouncer

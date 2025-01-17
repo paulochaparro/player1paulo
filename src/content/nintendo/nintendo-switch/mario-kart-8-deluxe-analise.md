@@ -13,6 +13,14 @@ Mario Kart 8 Deluxe
 
 Mario Kart 8 Deluxe
 
+## Gráficos
+
+Mario Kart 8 Deluxe
+
+## Som
+
+Mario Kart 8 Deluxe
+
 ## Conclusão
 
 Mario Kart 8 Deluxe

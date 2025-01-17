@@ -13,6 +13,11 @@ Suikoden II
 
 Suikoden II
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Suikoden II

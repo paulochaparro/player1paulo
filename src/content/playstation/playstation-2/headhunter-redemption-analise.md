@@ -13,6 +13,11 @@ Headhunter: Redemption
 
 Headhunter: Redemption
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Headhunter: Redemption

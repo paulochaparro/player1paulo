@@ -13,6 +13,11 @@ Shenmue II
 
 Shenmue II
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Shenmue II

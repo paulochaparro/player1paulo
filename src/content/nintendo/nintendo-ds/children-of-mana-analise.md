@@ -9,6 +9,14 @@ Children of Mana
 
 Children of Mana
 
+## Gráficos
+
+Children of Mana
+
+## Som
+
+Children of Mana
+
 ## Conclusão
 
 Children of Mana

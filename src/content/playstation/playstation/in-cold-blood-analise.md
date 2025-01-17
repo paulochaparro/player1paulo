@@ -13,6 +13,11 @@ In Cold Blood
 
 In Cold Blood
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 In Cold Blood

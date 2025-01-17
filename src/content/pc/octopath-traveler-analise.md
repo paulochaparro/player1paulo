@@ -13,6 +13,11 @@ Octopath Traveler
 
 Octopath Traveler
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Octopath Traveler

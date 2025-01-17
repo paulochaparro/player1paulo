@@ -13,6 +13,11 @@ Mario Kart: Double Dash!!
 
 Mario Kart: Double Dash!!
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Mario Kart: Double Dash!!

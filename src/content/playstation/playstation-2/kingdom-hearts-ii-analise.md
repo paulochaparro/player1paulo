@@ -13,6 +13,11 @@ Kingdom Hearts II
 
 Kingdom Hearts II
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Kingdom Hearts II

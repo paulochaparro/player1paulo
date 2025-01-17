@@ -13,6 +13,11 @@ Final Fantasy V
 
 Final Fantasy V
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Final Fantasy V

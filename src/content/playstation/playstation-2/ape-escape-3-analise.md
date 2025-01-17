@@ -13,6 +13,11 @@ Ape Escape 3
 
 Ape Escape 3
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Ape Escape 3

@@ -13,6 +13,11 @@ Shining Tears
 
 Shining Tears
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Shining Tears

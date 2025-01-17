@@ -13,6 +13,11 @@ Grandia III
 
 Grandia III
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Grandia III

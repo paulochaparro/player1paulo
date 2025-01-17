@@ -13,6 +13,11 @@ Crazy Taxi 2
 
 Crazy Taxi 2
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Crazy Taxi 2

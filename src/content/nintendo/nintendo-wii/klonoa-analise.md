@@ -13,6 +13,14 @@ Klonoa
 
 Klonoa
 
+## Gráficos
+
+Klonoa
+
+## Som
+
+Klonoa
+
 ## Conclusão
 
 Klonoa

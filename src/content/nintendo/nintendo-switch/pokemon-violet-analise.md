@@ -13,6 +13,14 @@ Pokémon Violet
 
 Pokémon Violet
 
+## Gráficos
+
+Pokémon Violet
+
+## Som
+
+Pokémon Violet
+
 ## Conclusão
 
 Pokémon Violet

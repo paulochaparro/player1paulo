@@ -13,6 +13,11 @@ Valkyria Chronicles
 
 Valkyria Chronicles
 
+## Gráficos
+
+
+## Som
+
 ## Conclusão
 
 Valkyria Chronicles
