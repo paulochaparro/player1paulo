@@ -15,8 +15,11 @@ Breath of Fire
 
 ## Gráficos
 
+Breath of Fire
 
 ## Som
+
+Breath of Fire
 
 ## Conclusão
 

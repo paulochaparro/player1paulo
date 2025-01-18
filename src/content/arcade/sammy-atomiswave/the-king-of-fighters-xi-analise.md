@@ -13,6 +13,10 @@ The King of Fighters XI
 
 The King of Fighters XI
 
+## Gráficos
+
+The King of Fighters XI
+
 ## Conclusão
 
 The King of Fighters XI

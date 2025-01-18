@@ -13,6 +13,10 @@ Virtua Striker 3
 
 Virtua Striker 3
 
+## Gráficos
+
+Virtua Striker 3
+
 ## Conclusão
 
 Virtua Striker 3

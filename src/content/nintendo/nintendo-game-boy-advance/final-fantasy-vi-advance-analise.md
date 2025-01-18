@@ -15,6 +15,7 @@ Final Fantasy VI Advance
 
 ## Gráficos
 
+Final Fantasy VI Advance
 
 ## Som
 

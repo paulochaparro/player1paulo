@@ -13,6 +13,10 @@ Pokkén Tournament
 
 Pokkén Tournament
 
+## Gráficos
+
+Pokkén Tournament
+
 ## Conclusão
 
 Pokkén Tournament

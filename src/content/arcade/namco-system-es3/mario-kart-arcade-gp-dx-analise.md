@@ -13,6 +13,10 @@ Mario Kart Arcade GP DX
 
 Mario Kart Arcade GP DX
 
+## Gráficos
+
+Mario Kart Arcade GP DX
+
 ## Conclusão
 
 Mario Kart Arcade GP DX

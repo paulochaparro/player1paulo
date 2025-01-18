@@ -13,6 +13,10 @@ Virtua Fighter 4 Final Tuned
 
 Virtua Fighter 4 Final Tuned
 
+## Gráficos
+
+Virtua Fighter 4 Final Tuned
+
 ## Conclusão
 
 Virtua Fighter 4 Final Tuned

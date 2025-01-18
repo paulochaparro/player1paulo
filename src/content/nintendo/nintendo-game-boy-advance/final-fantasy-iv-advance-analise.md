@@ -15,8 +15,11 @@ Final Fantasy IV Advance
 
 ## Gráficos
 
+Final Fantasy IV Advance
 
 ## Som
+
+Final Fantasy IV Advance
 
 ## Conclusão
 

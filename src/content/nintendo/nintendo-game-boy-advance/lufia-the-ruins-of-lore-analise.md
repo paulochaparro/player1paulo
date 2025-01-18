@@ -15,8 +15,11 @@ Lufia: The Ruins of Lore
 
 ## Gráficos
 
+Lufia: The Ruins of Lore
 
 ## Som
+
+Lufia: The Ruins of Lore
 
 ## Conclusão
 

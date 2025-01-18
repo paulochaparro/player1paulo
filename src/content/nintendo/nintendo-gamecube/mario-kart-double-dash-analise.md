@@ -15,8 +15,11 @@ Mario Kart: Double Dash!!
 
 ## Gráficos
 
+Mario Kart: Double Dash!!
 
 ## Som
+
+Mario Kart: Double Dash!!
 
 ## Conclusão
 

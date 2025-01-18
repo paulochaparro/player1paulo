@@ -15,8 +15,11 @@ Sonic Riders: Zero Gravity
 
 ## Gráficos
 
+Sonic Riders: Zero Gravity
 
 ## Som
+
+Sonic Riders: Zero Gravity
 
 ## Conclusão
 

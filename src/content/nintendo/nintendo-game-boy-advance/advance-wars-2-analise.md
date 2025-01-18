@@ -15,8 +15,11 @@ Advance Wars 2
 
 ## Gráficos
 
+Advance Wars 2
 
 ## Som
+
+Advance Wars 2
 
 ## Conclusão
 

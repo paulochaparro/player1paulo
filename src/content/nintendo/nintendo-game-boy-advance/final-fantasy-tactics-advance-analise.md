@@ -15,8 +15,11 @@ Final Fantasy Tactics Advance
 
 ## Gráficos
 
+Final Fantasy Tactics Advance
 
 ## Som
+
+Final Fantasy Tactics Advance
 
 ## Conclusão
 

@@ -15,8 +15,11 @@ Final Fantasy V Advance
 
 ## Gráficos
 
+Final Fantasy V Advance
 
 ## Som
+
+Final Fantasy V Advance
 
 ## Conclusão
 

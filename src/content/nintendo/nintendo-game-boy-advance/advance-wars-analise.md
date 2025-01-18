@@ -15,8 +15,11 @@ Advance Wars
 
 ## Gráficos
 
+Advance Wars
 
 ## Som
+
+Advance Wars
 
 ## Conclusão
 

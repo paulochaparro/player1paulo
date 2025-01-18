@@ -13,6 +13,10 @@ Guilty Gear X
 
 Guilty Gear X
 
+## Gráficos
+
+Guilty Gear X
+
 ## Conclusão
 
 Guilty Gear X
