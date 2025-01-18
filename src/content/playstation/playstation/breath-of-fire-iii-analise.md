@@ -15,8 +15,11 @@ Breath of Fire III
 
 ## Gráficos
 
+Breath of Fire III
 
 ## Som
+
+Breath of Fire III
 
 ## Conclusão
 

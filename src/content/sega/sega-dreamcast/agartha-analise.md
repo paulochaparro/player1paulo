@@ -15,8 +15,11 @@ Agartha
 
 ## Gráficos
 
+Agartha
 
 ## Som
+
+Agartha
 
 ## Conclusão
 

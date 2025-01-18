@@ -15,8 +15,11 @@ Dynamite Cop
 
 ## Gráficos
 
+Dynamite Cop
 
 ## Som
+
+Dynamite Cop
 
 ## Conclusão
 

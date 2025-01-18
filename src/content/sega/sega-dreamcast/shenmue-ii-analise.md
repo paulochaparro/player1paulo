@@ -15,8 +15,11 @@ Shenmue II
 
 ## Gráficos
 
+Shenmue II
 
 ## Som
+
+Shenmue II
 
 ## Conclusão
 

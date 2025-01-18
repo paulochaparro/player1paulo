@@ -15,8 +15,11 @@ Yellow Taxi Goes Vroom
 
 ## Gráficos
 
+Yellow Taxi Goes Vroom
 
 ## Som
+
+Yellow Taxi Goes Vroom
 
 ## Conclusão
 

@@ -19,8 +19,11 @@ World of Final Fantasy Maxima
 
 ## Gráficos
 
+World of Final Fantasy Maxima
 
 ## Som
+
+World of Final Fantasy Maxima
 
 ## Conclusão
 

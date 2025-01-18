@@ -15,8 +15,11 @@ Chrono Trigger
 
 ## Gráficos
 
+Chrono Trigger
 
 ## Som
+
+Chrono Trigger
 
 ## Conclusão
 

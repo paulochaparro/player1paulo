@@ -15,8 +15,11 @@ Bahamut Lagoon
 
 ## Gráficos
 
+Bahamut Lagoon
 
 ## Som
+
+Bahamut Lagoon
 
 ## Conclusão
 

@@ -15,8 +15,11 @@ Broken Sword: Shadow of the Templars Reforged
 
 ## Gráficos
 
+Broken Sword: Shadow of the Templars Reforged
 
 ## Som
+
+Broken Sword: Shadow of the Templars Reforged
 
 ## Conclusão
 

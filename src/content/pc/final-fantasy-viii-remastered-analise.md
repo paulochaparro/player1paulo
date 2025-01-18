@@ -15,8 +15,11 @@ Final Fantasy VIII Remastered
 
 ## Gráficos
 
+Final Fantasy VIII Remastered
 
 ## Som
+
+Final Fantasy VIII Remastered
 
 ## Conclusão
 

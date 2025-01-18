@@ -15,8 +15,11 @@ Sonic Adventure
 
 ## Gráficos
 
+Sonic Adventure
 
 ## Som
+
+Sonic Adventure
 
 ## Conclusão
 

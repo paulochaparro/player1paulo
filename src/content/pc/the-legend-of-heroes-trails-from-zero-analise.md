@@ -15,8 +15,11 @@ The Legend of Heroes: Trails from Zero
 
 ## Gráficos
 
+The Legend of Heroes: Trails from Zero
 
 ## Som
+
+The Legend of Heroes: Trails from Zero
 
 ## Conclusão
 

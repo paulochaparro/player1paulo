@@ -15,8 +15,11 @@ Sonic Forces
 
 ## Gráficos
 
+Sonic Forces
 
 ## Som
+
+Sonic Forces
 
 ## Conclusão
 

@@ -15,8 +15,11 @@ Brave Prove
 
 ## Gráficos
 
+Brave Prove
 
 ## Som
+
+Brave Prove
 
 ## Conclusão
 

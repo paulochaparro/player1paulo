@@ -15,8 +15,11 @@ Romancing SaGa 3
 
 ## Gráficos
 
+Romancing SaGa 3
 
 ## Som
+
+Romancing SaGa 3
 
 ## Conclusão
 

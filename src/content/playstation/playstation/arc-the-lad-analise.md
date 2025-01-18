@@ -15,8 +15,11 @@ Arc the Lad
 
 ## Gráficos
 
+Arc the Lad
 
 ## Som
+
+Arc the Lad
 
 ## Conclusão
 

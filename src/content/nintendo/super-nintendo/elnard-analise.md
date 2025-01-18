@@ -15,8 +15,11 @@ Elnard
 
 ## Gráficos
 
+Elnard
 
 ## Som
+
+Elnard
 
 ## Conclusão
 

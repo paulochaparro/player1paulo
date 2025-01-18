@@ -15,8 +15,11 @@ Ys X: Nordics
 
 ## Gráficos
 
+Ys X: Nordics
 
 ## Som
+
+Ys X: Nordics
 
 ## Conclusão
 

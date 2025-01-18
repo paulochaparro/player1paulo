@@ -15,8 +15,11 @@ Dragon Valor
 
 ## Gráficos
 
+Dragon Valor
 
 ## Som
+
+Dragon Valor
 
 ## Conclusão
 

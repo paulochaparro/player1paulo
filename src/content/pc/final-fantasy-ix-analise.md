@@ -15,8 +15,11 @@ Final Fantasy IX
 
 ## Gráficos
 
+Final Fantasy IX
 
 ## Som
+
+Final Fantasy IX
 
 ## Conclusão
 

@@ -15,8 +15,11 @@ Illusion of Gaia
 
 ## Gráficos
 
+Illusion of Gaia
 
 ## Som
+
+Illusion of Gaia
 
 ## Conclusão
 

@@ -15,8 +15,11 @@ Terranigma
 
 ## Gráficos
 
+Terranigma
 
 ## Som
+
+Terranigma
 
 ## Conclusão
 

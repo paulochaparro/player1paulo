@@ -15,8 +15,11 @@ Der Langrisser
 
 ## Gráficos
 
+Der Langrisser
 
 ## Som
+
+Der Langrisser
 
 ## Conclusão
 

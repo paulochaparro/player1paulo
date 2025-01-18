@@ -15,8 +15,11 @@ Super Indie Karts
 
 ## Gráficos
 
+Super Indie Karts
 
 ## Som
+
+Super Indie Karts
 
 ## Conclusão
 

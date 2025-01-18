@@ -15,8 +15,11 @@ Team Sonic Racing
 
 ## Gráficos
 
+Team Sonic Racing
 
 ## Som
+
+Team Sonic Racing
 
 ## Conclusão
 

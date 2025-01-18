@@ -15,8 +15,11 @@ Romancing SaGa 2: Revenge of the Seven
 
 ## Gráficos
 
+Romancing SaGa 2: Revenge of the Seven
 
 ## Som
+
+Romancing SaGa 2: Revenge of the Seven
 
 ## Conclusão
 

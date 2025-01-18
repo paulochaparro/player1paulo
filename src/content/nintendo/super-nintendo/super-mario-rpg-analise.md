@@ -15,8 +15,11 @@ Super Mario RPG
 
 ## Gráficos
 
+Super Mario RPG
 
 ## Som
+
+Super Mario RPG
 
 ## Conclusão
 

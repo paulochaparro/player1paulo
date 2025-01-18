@@ -15,8 +15,11 @@ Kona
 
 ## Gráficos
 
+Kona
 
 ## Som
+
+Kona
 
 ## Conclusão
 

@@ -11,8 +11,11 @@ TrickStyle
 
 ## Gráficos
 
+TrickStyle
 
 ## Som
+
+TrickStyle
 
 ## Conclusão
 

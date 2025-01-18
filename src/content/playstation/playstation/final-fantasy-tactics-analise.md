@@ -11,12 +11,15 @@ Final Fantasy Tactics
 
 ## Jogabilidade
 
-Fianl Fantasy Tactics
+Final Fantasy Tactics
 
 ## Gráficos
 
+Final Fantasy Tactics
 
 ## Som
+
+Final Fantasy Tactics
 
 ## Conclusão
 

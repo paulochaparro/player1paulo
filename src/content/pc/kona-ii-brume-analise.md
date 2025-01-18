@@ -15,8 +15,11 @@ Kona II: Brume
 
 ## Gráficos
 
+Kona II: Brume
 
 ## Som
+
+Kona II: Brume
 
 ## Conclusão
 

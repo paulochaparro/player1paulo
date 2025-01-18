@@ -15,8 +15,11 @@ What's Shenmue
 
 ## Gráficos
 
+What's Shenmue
 
 ## Som
+
+What's Shenmue
 
 ## Conclusão
 

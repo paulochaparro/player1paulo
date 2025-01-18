@@ -15,8 +15,11 @@ Arc the Lad III
 
 ## Gráficos
 
+Arc the Lad III
 
 ## Som
+
+Arc the Lad III
 
 ## Conclusão
 

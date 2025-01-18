@@ -15,8 +15,11 @@ Romancing SaGa 2
 
 ## Gráficos
 
+Romancing SaGa 2
 
 ## Som
+
+Romancing SaGa 2
 
 ## Conclusão
 

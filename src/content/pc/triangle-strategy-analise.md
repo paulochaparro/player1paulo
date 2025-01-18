@@ -15,8 +15,11 @@ Triangle Strategy
 
 ## Gráficos
 
+Triangle Strategy
 
 ## Som
+
+Triangle Strategy
 
 ## Conclusão
 

@@ -23,8 +23,11 @@ Final Fantasy Origins
 
 ## Gráficos
 
+Final Fantasy Origins
 
 ## Som
+
+Final Fantasy Origins
 
 ## Conclusão
 

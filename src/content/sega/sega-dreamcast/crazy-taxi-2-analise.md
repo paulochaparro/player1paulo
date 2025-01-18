@@ -15,6 +15,7 @@ Crazy Taxi 2
 
 ## Gráficos
 
+Crazy Taxi 2
 
 ## Som
 

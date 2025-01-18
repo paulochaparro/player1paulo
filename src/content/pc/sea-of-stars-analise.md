@@ -15,8 +15,11 @@ Sea of Stars
 
 ## Gráficos
 
+Sea of Stars
 
 ## Som
+
+Sea of Stars
 
 ## Conclusão
 

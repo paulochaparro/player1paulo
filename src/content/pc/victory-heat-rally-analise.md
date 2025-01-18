@@ -15,8 +15,11 @@ Victory Heat Rally
 
 ## Gráficos
 
+Victory Heat Rally
 
 ## Som
+
+Victory Heat Rally
 
 ## Conclusão
 

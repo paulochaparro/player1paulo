@@ -15,8 +15,11 @@ Tales of Graces f Remastered
 
 ## Gráficos
 
+Tales of Graces f Remastered
 
 ## Som
+
+Tales of Graces f Remastered
 
 ## Conclusão
 

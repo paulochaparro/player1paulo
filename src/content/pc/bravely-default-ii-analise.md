@@ -15,8 +15,11 @@ Bravely Default II
 
 ## Gráficos
 
+Bombrush Cyberfunk
 
 ## Som
+
+Bombrush Cyberfunk
 
 ## Conclusão
 

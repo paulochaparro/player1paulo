@@ -15,8 +15,11 @@ Einhander
 
 ## Gráficos
 
+Einhander
 
 ## Som
+
+Einhander
 
 ## Conclusão
 

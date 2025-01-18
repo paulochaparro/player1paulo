@@ -15,8 +15,11 @@ Power Stone 2
 
 ## Gráficos
 
+Power Stone 2
 
 ## Som
+
+Power Stone 2
 
 ## Conclusão
 

@@ -15,8 +15,11 @@ Sega Rally 2
 
 ## Gráficos
 
+Sega Rally 2
 
 ## Som
+
+Sega Rally 2
 
 ## Conclusão
 

@@ -15,8 +15,11 @@ SaGa Frontier Remastered
 
 ## Gráficos
 
+SaGa Frontier Remastered
 
 ## Som
+
+SaGa Frontier Remastered
 
 ## Conclusão
 

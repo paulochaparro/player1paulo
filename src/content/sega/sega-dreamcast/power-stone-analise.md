@@ -15,8 +15,11 @@ Power Stone
 
 ## Gráficos
 
+Power Stone
 
 ## Som
+
+Power Stone
 
 ## Conclusão
 

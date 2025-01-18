@@ -15,8 +15,11 @@ Alterium Shift
 
 ## Gráficos
 
+Alterium Shift
 
 ## Som
+
+Alterium Shift
 
 ## Conclusão
 

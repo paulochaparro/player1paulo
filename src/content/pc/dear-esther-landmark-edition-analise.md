@@ -15,8 +15,11 @@ Dear Esther: Landmark Edition
 
 ## Gráficos
 
+Dear Esther: Landmark Edition
 
 ## Som
+
+Dear Esther: Landmark Edition
 
 ## Conclusão
 

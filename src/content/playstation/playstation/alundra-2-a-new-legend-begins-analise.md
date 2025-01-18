@@ -15,8 +15,11 @@ Alundra 2: A New Legend Begins
 
 ## Gráficos
 
+Alundra 2: A New Legend Begins
 
 ## Som
+
+Alundra 2: A New Legend Begins
 
 ## Conclusão
 

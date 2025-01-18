@@ -15,8 +15,11 @@ The Legend of Heroes: Trails to Azure
 
 ## Gráficos
 
+The Legend of Heroes: Trails to Azure
 
 ## Som
+
+The Legend of Heroes: Trails to Azure
 
 ## Conclusão
 

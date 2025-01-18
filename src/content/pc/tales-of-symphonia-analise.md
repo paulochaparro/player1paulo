@@ -15,8 +15,11 @@ Tales of Symphonia
 
 ## Gráficos
 
+Tales of Symphonia
 
 ## Som
+
+Tales of Symphonia
 
 ## Conclusão
 

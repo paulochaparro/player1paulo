@@ -15,8 +15,11 @@ Lufia & the Fortress of Doom
 
 ## Gráficos
 
+Lufia & the Fortress of Doom
 
 ## Som
+
+Lufia & the Fortress of Doom
 
 ## Conclusão
 

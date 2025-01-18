@@ -19,8 +19,11 @@ Final Fantasy XV Windows Edition
 
 ## Gráficos
 
+Final Fantasy XV Windows Edition
 
 ## Som
+
+Final Fantasy XV Windows Edition
 
 ## Conclusão
 

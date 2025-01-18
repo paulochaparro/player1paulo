@@ -15,8 +15,11 @@ Fear Effect
 
 ## Gráficos
 
+Fear Effect
 
 ## Som
+
+Fear Effect
 
 ## Conclusão
 

@@ -15,8 +15,11 @@ Star Ocean
 
 ## Gráficos
 
+Star Ocean
 
 ## Som
+
+Star Ocean
 
 ## Conclusão
 

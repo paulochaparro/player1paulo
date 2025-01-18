@@ -15,8 +15,11 @@ Shenmue
 
 ## Gráficos
 
+Shenmue
 
 ## Som
+
+Shenmue
 
 ## Conclusão
 

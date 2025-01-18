@@ -15,8 +15,11 @@ Final Fantasy VII Remake Intergrade
 
 ## Gráficos
 
+Final Fantasy VII Remake Intergrade
 
 ## Som
+
+Final Fantasy VII Remake Intergrade
 
 ## Conclusão
 

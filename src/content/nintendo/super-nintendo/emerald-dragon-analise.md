@@ -15,8 +15,11 @@ Emerald Dragon
 
 ## Gráficos
 
+Emerald Dragon
 
 ## Som
+
+Emerald Dragon
 
 ## Conclusão
 

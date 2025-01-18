@@ -15,8 +15,11 @@ Breath of Fire II
 
 ## Gráficos
 
+Breath of Fire II
 
 ## Som
+
+Breath of Fire II
 
 ## Conclusão
 

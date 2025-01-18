@@ -15,8 +15,11 @@ The Last Story
 
 ## Gráficos
 
+The Last Story
 
 ## Som
+
+The Last Story
 
 ## Conclusão
 

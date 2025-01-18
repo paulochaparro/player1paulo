@@ -15,8 +15,11 @@ Live A Live
 
 ## Gráficos
 
+Live A Live
 
 ## Som
+
+Live A Live
 
 ## Conclusão
 

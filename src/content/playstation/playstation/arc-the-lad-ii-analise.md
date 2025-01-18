@@ -15,8 +15,11 @@ Arc the Lad II
 
 ## Gráficos
 
+Arc the Lad II
 
 ## Som
+
+Arc the Lad II
 
 ## Conclusão
 

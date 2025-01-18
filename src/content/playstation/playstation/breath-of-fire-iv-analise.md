@@ -15,8 +15,11 @@ Breath of Fire IV
 
 ## Gráficos
 
+Breath of Fire IV
 
 ## Som
+
+Breath of Fire IV
 
 ## Conclusão
 

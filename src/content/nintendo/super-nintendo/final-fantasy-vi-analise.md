@@ -15,8 +15,11 @@ Final Fantasy VI
 
 ## Gráficos
 
+Final Fantasy VI
 
 ## Som
+
+Final Fantasy VI
 
 ## Conclusão
 

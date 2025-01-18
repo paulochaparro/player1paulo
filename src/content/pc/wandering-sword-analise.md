@@ -15,8 +15,11 @@ Wandering Sword
 
 ## Gráficos
 
+Wandering Sword
 
 ## Som
+
+Wandering Sword
 
 ## Conclusão
 

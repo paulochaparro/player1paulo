@@ -15,8 +15,11 @@ Super Mario Galaxy
 
 ## Gráficos
 
+Super Mario Galaxy
 
 ## Som
+
+Super Mario Galaxy
 
 ## Conclusão
 

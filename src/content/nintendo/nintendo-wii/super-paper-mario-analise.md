@@ -15,8 +15,11 @@ Super Paper Mario
 
 ## Gráficos
 
+Super Paper Mario
 
 ## Som
+
+Super Paper Mario
 
 ## Conclusão
 

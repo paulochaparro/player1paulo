@@ -15,8 +15,11 @@ Alundra
 
 ## Gráficos
 
+Alundra
 
 ## Som
+
+Alundra
 
 ## Conclusão
 

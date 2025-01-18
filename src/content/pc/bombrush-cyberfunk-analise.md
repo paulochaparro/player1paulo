@@ -15,8 +15,11 @@ Bombrush Cyberfunk
 
 ## Gráficos
 
+Bombrush Cyberfunk
 
 ## Som
+
+Bombrush Cyberfunk
 
 ## Conclusão
 

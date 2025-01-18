@@ -15,8 +15,11 @@ Chrono Cross: The Radical Dreamers Edition
 
 ## Gráficos
 
+Chrono Cross: The Radical Dreamers Edition
 
 ## Som
+
+Chrono Cross: The Radical Dreamers Edition
 
 ## Conclusão
 

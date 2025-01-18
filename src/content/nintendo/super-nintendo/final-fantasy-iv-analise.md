@@ -15,8 +15,11 @@ Final Fantasy IV
 
 ## Gráficos
 
+Final Fantasy IV
 
 ## Som
+
+Final Fantasy IV
 
 ## Conclusão
 

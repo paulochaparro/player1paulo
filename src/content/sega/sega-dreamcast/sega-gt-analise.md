@@ -15,8 +15,11 @@ Sega GT
 
 ## Gráficos
 
+Sega GT
 
 ## Som
+
+Sega GT
 
 ## Conclusão
 

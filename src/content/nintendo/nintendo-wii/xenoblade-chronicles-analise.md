@@ -15,8 +15,11 @@ Xenoblade Chronicles
 
 ## Gráficos
 
+Xenoblade Chronicles
 
 ## Som
+
+Xenoblade Chronicles
 
 ## Conclusão
 
