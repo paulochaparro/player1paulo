@@ -15,8 +15,11 @@ Broken Sword II: The Smoking Mirror
 
 ## Gráficos
 
+Broken Sword II: The Smoking Mirror
 
 ## Som
+
+Broken Sword II: The Smoking Mirror
 
 ## Conclusão
 

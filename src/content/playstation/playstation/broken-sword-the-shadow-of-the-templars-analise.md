@@ -15,8 +15,11 @@ Broken Sword: The Shadow of the Templars
 
 ## Gráficos
 
+Broken Sword: The Shadow of the Templars
 
 ## Som
+
+Broken Sword: The Shadow of the Templars
 
 ## Conclusão
 

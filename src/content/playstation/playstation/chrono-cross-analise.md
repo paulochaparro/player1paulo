@@ -15,8 +15,11 @@ Chrono Cross
 
 ## Gráficos
 
+Chrono Cross
 
 ## Som
+
+Chrono Cross
 
 ## Conclusão
 

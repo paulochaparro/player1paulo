@@ -15,8 +15,11 @@ Bushido Blade 2
 
 ## Gráficos
 
+Bushido Blade 2
 
 ## Som
+
+Bushido Blade 2
 
 ## Conclusão
 
