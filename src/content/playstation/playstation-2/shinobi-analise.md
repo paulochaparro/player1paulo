@@ -15,8 +15,11 @@ Shinobi
 
 ## Gráficos
 
+Shinobi
 
 ## Som
+
+Shinobi
 
 ## Conclusão
 

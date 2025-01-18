@@ -13,6 +13,14 @@ Eternal Sonata
 
 Eternal Sonata
 
+## Gráficos
+
+Eternal Sonata
+
+## Som
+
+Eternal Sonata
+
 ## Conclusão
 
 Eternal Sonata

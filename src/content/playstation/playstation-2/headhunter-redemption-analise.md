@@ -15,8 +15,11 @@ Headhunter: Redemption
 
 ## Gráficos
 
+Headhunter: Redemption
 
 ## Som
+
+Headhunter: Redemption
 
 ## Conclusão
 

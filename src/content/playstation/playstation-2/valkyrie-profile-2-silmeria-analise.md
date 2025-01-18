@@ -15,8 +15,11 @@ Valkyrie Profile 2: Silmeria
 
 ## Gráficos
 
+Valkyrie Profile 2: Silmeria
 
 ## Som
+
+Valkyrie Profile 2: Silmeria
 
 ## Conclusão
 

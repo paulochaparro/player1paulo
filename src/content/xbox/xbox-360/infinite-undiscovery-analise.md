@@ -13,6 +13,14 @@ Infinite Undiscovery
 
 Infinite Undiscovery
 
+## Gráficos
+
+Infinite Undiscovery
+
+## Som
+
+Infinite Undiscovery
+
 ## Conclusão
 
 Infinite Undiscovery

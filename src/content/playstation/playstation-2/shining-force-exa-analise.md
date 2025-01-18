@@ -15,8 +15,11 @@ Shining Force EXA
 
 ## Gráficos
 
+Shining Force EXA
 
 ## Som
+
+Shining Force EXA
 
 ## Conclusão
 

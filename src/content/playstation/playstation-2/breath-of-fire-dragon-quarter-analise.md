@@ -15,7 +15,11 @@ Breath of Fire: Dragon Quarter
 
 ## Gráficos
 
+Breath of Fire: Dragon Quarter
+
 ## Som
+
+Breath of Fire: Dragon Quarter
 
 ## Conclusão
 

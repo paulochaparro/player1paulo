@@ -15,8 +15,11 @@ Devil May Cry
 
 ## Gráficos
 
+Devil May Cry
 
 ## Som
+
+Devil May Cry
 
 ## Conclusão
 

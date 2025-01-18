@@ -15,8 +15,11 @@ Tales of Xillia 2
 
 ## Gráficos
 
+Tales of Xillia 2
 
 ## Som
+
+Tales of Xillia 2
 
 ## Conclusão
 

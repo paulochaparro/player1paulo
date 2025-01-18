@@ -15,8 +15,11 @@ Tales of Destiny: Director's Cut
 
 ## Gráficos
 
+Tales of Destiny: Director's Cut
 
 ## Som
+
+Tales of Destiny: Director's Cut
 
 ## Conclusão
 

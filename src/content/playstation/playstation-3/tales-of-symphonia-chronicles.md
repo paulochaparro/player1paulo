@@ -9,6 +9,8 @@ Tales of Symphonia Chronicles
 
 Tales of Symphonia
 
+Tales of Symphonia Chronicles
+
 ## Tales of Symphonia: Dawn of the New World - Análise
 
 Tales of Symphonia: Dawn of the New World
@@ -19,8 +21,11 @@ Tales of Symphonia: Dawn of the New World
 
 ## Gráficos
 
+Tales of Symphonia Chronicles
 
 ## Som
+
+Tales of Symphonia Chronicles
 
 ## Conclusão
 

@@ -13,6 +13,14 @@ Star Ocean: The Last Hope
 
 Star Ocean: The Last Hope
 
+## Gráficos
+
+Star Ocean: The Last Hope
+
+## Som
+
+Star Ocean: The Last Hope
+
 ## Conclusão
 
 Star Ocean: The Last Hope

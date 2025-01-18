@@ -15,8 +15,11 @@ Rogue Galaxy
 
 ## Gráficos
 
+Rogue Galaxy
 
 ## Som
+
+Rogue Galaxy
 
 ## Conclusão
 

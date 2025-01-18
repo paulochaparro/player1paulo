@@ -13,6 +13,14 @@ Panzer Dragon Orta
 
 Panzer Dragon Orta
 
+## Gráficos
+
+Panzer Dragon Orta
+
+## Som
+
+Panzer Dragon Orta
+
 ## Conclusão
 
 Panzer Dragoon Orta

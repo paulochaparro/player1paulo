@@ -15,8 +15,11 @@ Dark Chronicle
 
 ## Gráficos
 
+Dark Chronicle
 
 ## Som
+
+Dark Chronicle
 
 ## Conclusão
 

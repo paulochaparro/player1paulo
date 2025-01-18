@@ -15,8 +15,11 @@ Phantasy Star Universe
 
 ## Gráficos
 
+Phantasy Star Universe
 
 ## Som
+
+Phantasy Star Universe
 
 ## Conclusão
 

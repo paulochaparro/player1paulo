@@ -15,8 +15,11 @@ Sonic Generations
 
 ## Gráficos
 
+Sonic Generations
 
 ## Som
+
+Sonic Generations
 
 ## Conclusão
 

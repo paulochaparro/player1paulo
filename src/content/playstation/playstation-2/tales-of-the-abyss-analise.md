@@ -15,8 +15,11 @@ Tales of the Abyss
 
 ## Gráficos
 
+Tales of the Abyss
 
 ## Som
+
+Tales of the Abyss
 
 ## Conclusão
 

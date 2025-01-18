@@ -15,8 +15,11 @@ Metal Gear Solid 2: Sons of Liberty
 
 ## Gráficos
 
+Metal Gear Solid 2: Sons of Liberty
 
 ## Som
+
+Metal Gear Solid 2: Sons of Liberty
 
 ## Conclusão
 

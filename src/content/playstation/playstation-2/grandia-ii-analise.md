@@ -15,8 +15,11 @@ Grandia II
 
 ## Gráficos
 
+Grandia III
 
 ## Som
+
+Grandia III
 
 ## Conclusão
 

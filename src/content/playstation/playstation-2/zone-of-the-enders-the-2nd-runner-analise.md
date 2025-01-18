@@ -15,8 +15,11 @@ Zone of the Enders: The 2nd Runner
 
 ## Gráficos
 
+Zone of the Enders: The 2nd Runner
 
 ## Som
+
+Zone of the Enders: The 2nd Runner
 
 ## Conclusão
 

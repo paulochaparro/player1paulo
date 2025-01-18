@@ -15,8 +15,11 @@ Final Fantasy XII
 
 ## Gráficos
 
+Final Fantasy XII
 
 ## Som
+
+Final Fantasy XII
 
 ## Conclusão
 

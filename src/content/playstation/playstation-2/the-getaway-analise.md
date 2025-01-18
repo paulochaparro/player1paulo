@@ -15,8 +15,11 @@ The Getaway
 
 ## Gráficos
 
+The Getaway
 
 ## Som
+
+The Getaway
 
 ## Conclusão
 

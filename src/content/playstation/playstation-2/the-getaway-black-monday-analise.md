@@ -15,8 +15,11 @@ The Getaway: Black Monday
 
 ## Gráficos
 
+The Getaway: Black Monday
 
 ## Som
+
+The Getaway: Black Monday
 
 ## Conclusão
 

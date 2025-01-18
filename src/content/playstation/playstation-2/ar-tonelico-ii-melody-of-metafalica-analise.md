@@ -15,8 +15,11 @@ Ar Tonelico II: Melody of Metafalica
 
 ## Gráficos
 
+Ar Tonelico II: Melody of Metafalica
 
 ## Som
+
+Ar Tonelico II: Melody of Metafalica
 
 ## Conclusão
 

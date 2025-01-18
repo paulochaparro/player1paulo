@@ -15,8 +15,11 @@ Freak Out
 
 ## Gráficos
 
+Freak Out
 
 ## Som
+
+Freak Out
 
 ## Conclusão
 

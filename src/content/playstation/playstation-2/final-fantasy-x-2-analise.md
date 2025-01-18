@@ -15,8 +15,11 @@ Final Fantasy X-2
 
 ## Gráficos
 
+Final Fantasy X-2
 
 ## Som
+
+Final Fantasy X-2
 
 ## Conclusão
 

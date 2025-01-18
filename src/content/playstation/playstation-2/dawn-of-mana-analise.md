@@ -11,8 +11,11 @@ Dawn of Mana
 
 ## Gráficos
 
+Dawn of Mana
 
 ## Som
+
+Dawn of Mana
 
 ## Conclusão
 

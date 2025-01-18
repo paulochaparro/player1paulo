@@ -13,6 +13,14 @@ Jet Set Radio Future
 
 Jet Set Radio Future
 
+## Gráficos
+
+Jet Set Radio Future
+
+## Som
+
+Jet Set Radio Future
+
 ## Conclusão
 
 Jet Set Radio Future

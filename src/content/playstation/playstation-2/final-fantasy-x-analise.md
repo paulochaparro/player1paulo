@@ -15,8 +15,11 @@ Final Fantasy X
 
 ## Gráficos
 
+Final Fantasy X
 
 ## Som
+
+Final Fantasy X
 
 ## Conclusão
 

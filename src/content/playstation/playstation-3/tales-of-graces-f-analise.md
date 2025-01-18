@@ -15,8 +15,11 @@ Tales of Graces F
 
 ## Gráficos
 
+Tales of Graces F
 
 ## Som
+
+Tales of Graces F
 
 ## Conclusão
 

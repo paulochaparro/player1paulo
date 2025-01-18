@@ -15,8 +15,11 @@ Phantasy Star Universe: Ambition of the Illuminus
 
 ## Gráficos
 
+Phantasy Star Universe: Ambition of the Illuminus
 
 ## Som
+
+Phantasy Star Universe: Ambition of the Illuminus
 
 ## Conclusão
 

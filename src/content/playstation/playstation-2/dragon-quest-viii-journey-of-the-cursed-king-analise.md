@@ -13,6 +13,14 @@ Dragon Quest VIII: Journey of the Cursed King
 
 Dragon Quest VIII: Journey of the Cursed King
 
+## Gráficos
+
+Dragon Quest VIII: Journey of the Cursed King
+
+## Som
+
+Dragon Quest VIII: Journey of the Cursed King
+
 ## Conclusão
 
 Dragon Quest VIII: Journey of the Cursed King

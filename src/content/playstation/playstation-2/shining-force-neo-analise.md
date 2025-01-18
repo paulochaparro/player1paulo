@@ -15,8 +15,11 @@ Shining Force Neo
 
 ## Gráficos
 
+Shining Force Neo
 
 ## Som
+
+Shining Force Neo
 
 ## Conclusão
 

@@ -13,6 +13,14 @@ Lost Odyssey
 
 Lost Odyssey
 
+## Gráficos
+
+Lost Odyssey
+
+## Som
+
+Lost Odyssey
+
 ## Conclusão
 
 Lost Odyssey

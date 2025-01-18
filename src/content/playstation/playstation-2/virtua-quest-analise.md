@@ -15,8 +15,11 @@ Virtua Quest
 
 ## Gráficos
 
+Virtua Quest
 
 ## Som
+
+Virtua Quest
 
 ## Conclusão
 

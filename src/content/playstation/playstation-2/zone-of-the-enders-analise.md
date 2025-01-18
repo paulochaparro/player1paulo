@@ -15,8 +15,11 @@ Zone of the Enders
 
 ## Gráficos
 
+Zone of the Enders
 
 ## Som
+
+Zone of the Enders
 
 ## Conclusão
 

@@ -11,8 +11,11 @@ Sega Rally 2006
 
 ## Gráficos
 
+Sega Rally 2006
 
 ## Som
+
+Sega Rally 2006
 
 ## Conclusão
 

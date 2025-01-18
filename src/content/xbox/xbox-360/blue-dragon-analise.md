@@ -13,6 +13,14 @@ Blue Dragon
 
 Blue Dragon
 
+## Gráficos
+
+Blue Dragon
+
+## Som
+
+Blue Dragon
+
 ## Conclusão
 
 Blue Dragon

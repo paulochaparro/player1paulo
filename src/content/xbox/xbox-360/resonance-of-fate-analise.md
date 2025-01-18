@@ -13,6 +13,14 @@ Resonance of Fate
 
 Resonance of Fate
 
+## Gráficos
+
+Resonance of Fate
+
+## Som
+
+Resonance of Fate
+
 ## Conclusão
 
 Resonance of Fate

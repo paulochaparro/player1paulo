@@ -15,8 +15,11 @@ The Bouncer
 
 ## Gráficos
 
+The Bouncer
 
 ## Som
+
+The Bouncer
 
 ## Conclusão
 

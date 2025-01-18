@@ -15,8 +15,11 @@ Star Ocean: Till the End of Time
 
 ## Gráficos
 
+Star Ocean: Till the End of Time
 
 ## Som
+
+Star Ocean: Till the End of Time
 
 ## Conclusão
 

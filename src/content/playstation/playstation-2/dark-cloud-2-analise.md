@@ -15,8 +15,11 @@ Dark Cloud 2
 
 ## Gráficos
 
+Dark Cloud 2
 
 ## Som
+
+Dark Cloud 2
 
 ## Conclusão
 

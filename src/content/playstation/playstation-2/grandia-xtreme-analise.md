@@ -15,7 +15,11 @@ Grandia Xtreme
 
 ## Gráficos
 
+Grandia Xtreme
+
 ## Som
+
+Grandia Xtreme
 
 ## Conclusão
 

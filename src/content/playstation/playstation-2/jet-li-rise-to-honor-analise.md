@@ -15,8 +15,11 @@ Jet Li: Rise To Honor
 
 ## Gráficos
 
+Jet Li: Rise To Honor
 
 ## Som
+
+Jet Li: Rise To Honor
 
 ## Conclusão
 

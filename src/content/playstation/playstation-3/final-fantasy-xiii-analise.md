@@ -15,8 +15,11 @@ Final Fantasy XIII
 
 ## Gráficos
 
+Final Fantasy XIII
 
 ## Som
+
+Final Fantasy XIII
 
 ## Conclusão
 
