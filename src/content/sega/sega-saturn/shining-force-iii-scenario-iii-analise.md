@@ -9,6 +9,10 @@ Shining Force III: Scenario III
 
 Shining Force III: Scenario III
 
+## História
+
+Shining Force III: Scenario III
+
 ## Jogabilidade
 
 Shining Force III: Scenario III
