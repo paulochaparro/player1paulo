@@ -17,6 +17,10 @@ Guilty Gear X
 
 Guilty Gear X
 
+## Som
+
+Guilty Gear X
+
 ## Conclusão
 
 Guilty Gear X

@@ -9,6 +9,10 @@ Red Steel
 
 Red Steel
 
+## História
+
+Red Steel
+
 ## Jogabilidade
 
 Red Steel

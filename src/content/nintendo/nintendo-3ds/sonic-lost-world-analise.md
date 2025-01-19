@@ -9,6 +9,10 @@ Sonic Lost World
 
 Sonic Lost World
 
+## História
+
+Sonic Lost World
+
 ## Jogabilidade
 
 Sonic Lost World

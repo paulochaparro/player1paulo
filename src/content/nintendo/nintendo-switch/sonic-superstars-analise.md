@@ -9,6 +9,10 @@ Sonic Superstars
 
 Sonic Superstars
 
+## História
+
+Sonic Superstars
+
 ## Jogabilidade
 
 Sonic Superstars

@@ -9,6 +9,10 @@ Red Steel 2
 
 Red Steel 2
 
+## História
+
+Red Steel 2
+
 ## Jogabilidade
 
 Red Steel 2

@@ -17,6 +17,10 @@ Guilty Gear Isuka
 
 Guilty Gear Isuka
 
+## Som
+
+Guilty Gear Isuka
+
 ## Conclusão
 
 Guilty Gear Isuka
