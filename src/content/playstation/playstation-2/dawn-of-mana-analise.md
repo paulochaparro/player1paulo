@@ -9,6 +9,10 @@ Dawn of Mana
 
 Dawn of Mana
 
+## História
+
+Dawn of Mana
+
 ## Gráficos
 
 Dawn of Mana

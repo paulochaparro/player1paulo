@@ -9,6 +9,10 @@ Octopath Traveler
 
 Octopath Traveler
 
+## História
+
+Octopath Traveler
+
 ## Jogabilidade
 
 Octopath Traveler

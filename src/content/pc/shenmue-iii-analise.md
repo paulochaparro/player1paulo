@@ -9,6 +9,10 @@ Shenmue III
 
 Shenmue III
 
+## História
+
+Shenmue III
+
 ## Jogabilidade
 
 Shenmue III

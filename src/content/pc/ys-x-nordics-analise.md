@@ -9,6 +9,10 @@ Ys X: Nordics
 
 Ys X: Nordics
 
+## História
+
+Ys X: Nordics
+
 ## Jogabilidade
 
 Ys X: Nordics

@@ -9,6 +9,10 @@ Ape Escape
 
 Ape Escape
 
+## História
+
+Ape Escape
+
 ## Jogabilidade
 
 Ape Escape

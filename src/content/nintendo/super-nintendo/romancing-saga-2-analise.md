@@ -9,6 +9,10 @@ Romancing SaGa 2
 
 Romancing SaGa 2
 
+## História
+
+Romancing SaGa 2
+
 ## Jogabilidade
 
 Romancing SaGa 2

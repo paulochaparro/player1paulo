@@ -9,6 +9,10 @@ Star Ocean: The Last Hope
 
 Star Ocean: The Last Hope
 
+## História
+
+Star Ocean: The Last Hope
+
 ## Jogabilidade
 
 Star Ocean: The Last Hope

@@ -9,6 +9,10 @@ Zone of the Enders
 
 Zone of the Enders
 
+## História
+
+Zone of the Enders
+
 ## Jogabilidade
 
 Zone of the Enders

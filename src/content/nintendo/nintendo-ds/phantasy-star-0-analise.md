@@ -9,6 +9,10 @@ Phantasy Star 0
 
 Phantasy Star 0
 
+## História
+
+Phantasy Star 0
+
 ## Jogabilidade
 
 Phantasy Star 0

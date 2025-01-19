@@ -9,14 +9,21 @@ Last Ranker
 
 Last Ranker
 
+## História
+
+Last Ranker
+
 ## Jogabilidade
 
 Last Ranker
 
 ## Gráficos
 
+Last Ranker
 
 ## Som
+
+Last Ranker
 
 ## Conclusão
 

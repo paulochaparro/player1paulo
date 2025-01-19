@@ -9,6 +9,10 @@ Brave Prove
 
 Brave Prove
 
+## História
+
+Brave Prove
+
 ## Jogabilidade
 
 Brave Prove

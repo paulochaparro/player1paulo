@@ -9,6 +9,10 @@ Bravely Default
 
 Bravely Default
 
+## História
+
+Bravely Default
+
 ## Jogabilidade
 
 Bravely Default

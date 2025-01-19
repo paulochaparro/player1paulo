@@ -9,6 +9,10 @@ Breath of Fire III
 
 Breath of Fire III
 
+## História
+
+Breath of Fire III
+
 ## Jogabilidade
 
 Breath of Fire III

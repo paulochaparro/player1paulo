@@ -9,6 +9,10 @@ Trials of Mana
 
 Trials of Mana
 
+## História
+
+Trials of Mana
+
 ## Jogabilidade
 
 Trials of Mana

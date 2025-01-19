@@ -9,6 +9,10 @@ Final Fantasy XII: The Zodiac Age
 
 Final Fantasy XII: The Zodiac Age
 
+## História
+
+Final Fantasy XII: The Zodiac Age
+
 ## Jogabilidade
 
 Final Fantasy XII: The Zodiac Age

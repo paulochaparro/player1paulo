@@ -9,6 +9,10 @@ Racing Lagoon
 
 Racing Lagoon
 
+## História
+
+Racing Lagoon
+
 ## Jogabilidade
 
 Racing Lagoon

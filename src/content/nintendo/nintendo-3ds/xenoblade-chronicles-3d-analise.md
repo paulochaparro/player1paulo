@@ -9,6 +9,10 @@ Xenoblade Chronicles 3D
 
 Xenoblade Chronicles 3D
 
+## História
+
+Xenoblade Chronicles 3D
+
 ## Jogabilidade
 
 Xenoblade Chronicles 3D

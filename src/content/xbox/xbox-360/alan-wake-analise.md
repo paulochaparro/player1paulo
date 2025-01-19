@@ -9,6 +9,10 @@ Alan Wake
 
 Alan Wake
 
+## História
+
+Alan Wake
+
 ## Jogabilidade
 
 Alan Wake

@@ -9,14 +9,21 @@ Sylvan Tale
 
 Sylvan Tale
 
+## história
+
+Sylvan Tale
+
 ## Jogabilidade
 
 Sylvan Tale
 
 ## Gráficos
 
+Sylvan Tale
 
 ## Som
+
+Sylvan Tale
 
 ## Conclusão
 

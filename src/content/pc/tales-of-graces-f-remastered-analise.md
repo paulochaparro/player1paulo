@@ -9,6 +9,10 @@ Tales of Graces f Remastered
 
 Tales of Graces f Remastered
 
+## História
+
+Tales of Graces f Remastered
+
 ## Jogabilidade
 
 Tales of Graces f Remastered

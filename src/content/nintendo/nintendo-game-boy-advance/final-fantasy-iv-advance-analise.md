@@ -9,6 +9,10 @@ Final Fantasy IV Advance
 
 Final Fantasy IV Advance
 
+## História
+
+Final Fantasy IV Advance
+
 ## Jogabilidade
 
 Final Fantasy IV Advance

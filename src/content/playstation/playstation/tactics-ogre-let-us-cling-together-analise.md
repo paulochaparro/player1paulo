@@ -9,6 +9,10 @@ Tactics Ogre: Let Us Cling Together
 
 Tactics Ogre: Let Us Cling Together
 
+## História
+
+Tactics Ogre: Let Us Cling Together
+
 ## Jogabilidade
 
 Tactics Ogre: Let Us Cling Together

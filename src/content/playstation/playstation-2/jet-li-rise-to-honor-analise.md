@@ -9,6 +9,10 @@ Jet Li: Rise To Honor
 
 Jet Li: Rise To Honor
 
+## História
+
+Jet Li: Rise To Honor
+
 ## Jogabilidade
 
 Jet Li: Rise To Honor

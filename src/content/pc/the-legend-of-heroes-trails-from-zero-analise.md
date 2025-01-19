@@ -9,6 +9,10 @@ The Legend of Heroes: Trails from Zero
 
 The Legend of Heroes: Trails from Zero
 
+## História
+
+The Legend of Heroes: Trails from Zero
+
 ## Jogabilidade
 
 The Legend of Heroes: Trails from Zero

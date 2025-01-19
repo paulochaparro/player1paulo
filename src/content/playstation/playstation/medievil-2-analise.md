@@ -9,6 +9,10 @@ MediEvil 2
 
 MediEvil 2
 
+## História
+
+MediEvil 2
+
 ## Jogabilidade
 
 MediEvil 2

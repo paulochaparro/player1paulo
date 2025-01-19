@@ -9,6 +9,10 @@ Resonance of Fate 4K HD Edition
 
 Resonance of Fate 4K HD Edition
 
+## História
+
+Resonance of Fate 4K HD Edition
+
 ## Jogabilidade
 
 Resonance of Fate 4K HD Edition

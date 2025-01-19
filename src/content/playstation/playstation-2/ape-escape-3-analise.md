@@ -9,6 +9,10 @@ Ape Escape 3
 
 Ape Escape 3
 
+## História
+
+Ape Escape 3
+
 ## Jogabilidade
 
 Ape Escape 3

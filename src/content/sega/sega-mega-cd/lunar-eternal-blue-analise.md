@@ -9,7 +9,19 @@ Lunar: Eternal Blue
 
 Lunar: Eternal Blue
 
+## História
+
+Lunar: Eternal Blue
+
 ## Jogabilidade
+
+Lunar: Eternal Blue
+
+## Gráficos
+
+Lunar: Eternal Blue
+
+## Som
 
 Lunar: Eternal Blue
 

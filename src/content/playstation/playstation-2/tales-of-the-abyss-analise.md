@@ -9,6 +9,10 @@ Tales of the Abyss
 
 Tales of the Abyss
 
+## História
+
+Tales of the Abyss
+
 ## Jogabilidade
 
 Tales of the Abyss

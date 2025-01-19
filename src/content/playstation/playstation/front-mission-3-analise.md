@@ -9,6 +9,10 @@ Front Mission 3
 
 Front Mission 3
 
+## História
+
+Front Mission 3
+
 ## Jogabilidade
 
 Front Mission 3

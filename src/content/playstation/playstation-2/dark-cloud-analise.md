@@ -9,6 +9,10 @@ Dark Cloud
 
 Dark Cloud
 
+## História
+
+Dark Cloud
+
 ## Jogabilidade
 
 Dark Cloud

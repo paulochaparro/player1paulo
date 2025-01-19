@@ -9,6 +9,10 @@ Arc the Lad II
 
 Arc the Lad II
 
+## História
+
+Arc the Lad II
+
 ## Jogabilidade
 
 Arc the Lad II

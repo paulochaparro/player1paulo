@@ -15,8 +15,11 @@ Phantasy Star Portable
 
 ## Gráficos
 
+Phantasy Star Portable
 
 ## Som
+
+Phantasy Star Portable
 
 ## Conclusão
 

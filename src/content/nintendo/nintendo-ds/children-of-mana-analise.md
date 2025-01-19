@@ -9,6 +9,10 @@ Children of Mana
 
 Children of Mana
 
+## História
+
+Children of Mana
+
 ## Gráficos
 
 Children of Mana

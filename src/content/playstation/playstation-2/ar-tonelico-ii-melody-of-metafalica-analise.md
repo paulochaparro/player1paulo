@@ -9,6 +9,10 @@ Ar Tonelico II: Melody of Metafalica
 
 Ar Tonelico II: Melody of Metafalica
 
+## História
+
+Ar Tonelico II: Melody of Metafalica
+
 ## Jogabilidade
 
 Ar Tonelico II: Melody of Metafalica

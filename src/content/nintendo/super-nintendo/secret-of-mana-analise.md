@@ -9,6 +9,10 @@ Secret of Mana
 
 Secret of Mana
 
+## História
+
+Secret of Mana
+
 ## Jogabilidade
 
 Secret of Mana

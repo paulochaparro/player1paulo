@@ -9,6 +9,10 @@ Tactics Ogre: The Knight of Lodis
 
 Tactics Ogre: The Knight of Lodis
 
+## História
+
+Tactics Ogre: The Knight of Lodis
+
 ## Jogabilidade
 
 Tactics Ogre: The Knight of Lodis

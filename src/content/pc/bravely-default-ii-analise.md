@@ -9,6 +9,10 @@ Bravely Default II
 
 Bravely Default II
 
+## História
+
+Bravely Default II
+
 ## Jogabilidade
 
 Bravely Default II

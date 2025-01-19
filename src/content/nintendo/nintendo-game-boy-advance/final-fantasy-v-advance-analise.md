@@ -9,6 +9,10 @@ Final Fantasy V Advance
 
 Final Fantasy V Advance
 
+## História
+
+Final Fantasy V Advance
+
 ## Jogabilidade
 
 Final Fantasy V Advance

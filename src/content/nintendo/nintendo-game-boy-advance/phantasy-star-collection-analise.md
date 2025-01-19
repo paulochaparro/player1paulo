@@ -9,6 +9,10 @@ Phantasy Star Collection
 
 Phantasy Star Collection
 
+## História
+
+Phantasy Star Collection
+
 ## Jogabilidade
 
 Phantasy Star Collection

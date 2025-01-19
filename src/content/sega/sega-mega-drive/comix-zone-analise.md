@@ -9,14 +9,21 @@ Comix Zone
 
 Comix Zone
 
+## História
+
+Comix Zone
+
 ## Jogabilidade
 
 Comix Zone
 
 ## Gráficos
 
+Comix Zone
 
 ## Som
+
+Comix Zone
 
 ## Conclusão
 

@@ -9,6 +9,10 @@ Ogre Battle: The March of the Black Queen
 
 Ogre Battle: The March of the Black Queen
 
+## História
+
+Ogre Battle: The March of the Black Queen
+
 ## Jogabilidade
 
 Ogre Battle: The March of the Black Queen

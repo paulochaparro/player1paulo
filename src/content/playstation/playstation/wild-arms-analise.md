@@ -9,6 +9,10 @@ Wild Arms
 
 Wild Arms
 
+## História
+
+Wild Arms
+
 ## Jogabilidade
 
 Wild Arms

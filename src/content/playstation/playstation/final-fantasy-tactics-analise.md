@@ -9,6 +9,10 @@ Final Fantasy Tactics
 
 Final Fantasy Tactics
 
+## História
+
+Final Fantasy Tactics
+
 ## Jogabilidade
 
 Final Fantasy Tactics

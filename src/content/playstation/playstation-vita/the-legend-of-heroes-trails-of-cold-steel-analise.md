@@ -9,14 +9,21 @@ The Legend of Heroes: Trails of Cold Steel
 
 The Legend of Heroes: Trails of Cold Steel
 
+## História
+
+The Legend of Heroes: Trails of Cold Steel
+
 ## Jogabilidade
 
 The Legend of Heroes: Trails of Cold Steel
 
 ## Gráficos
 
+The Legend of Heroes: Trails of Cold Steel
 
 ## Som
+
+The Legend of Heroes: Trails of Cold Steel
 
 ## Conclusão
 

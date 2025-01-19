@@ -9,6 +9,10 @@ Omega Boost
 
 Omega Boost
 
+## História
+
+Omega Boost
+
 ## Jogabilidade
 
 Omega Boost

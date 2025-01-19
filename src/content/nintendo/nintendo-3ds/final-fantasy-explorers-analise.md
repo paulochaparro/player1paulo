@@ -9,6 +9,10 @@ Final Fantasy Explorers
 
 Final Fantasy Explorers
 
+## História
+
+Final Fantasy Explorers
+
 ## Jogabilidade
 
 Final Fantasy Explorers

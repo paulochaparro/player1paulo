@@ -15,8 +15,11 @@ Lunar: Silver Star Harmony
 
 ## Gráficos
 
+Lunar: Silver Star Harmony
 
 ## Som
+
+Lunar: Silver Star Harmony
 
 ## Conclusão
 

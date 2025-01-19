@@ -9,6 +9,10 @@ Chrono Cross
 
 Chrono Cross
 
+## História
+
+Chrono Cross
+
 ## Jogabilidade
 
 Chrono Cross

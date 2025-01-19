@@ -9,6 +9,10 @@ The Last Story
 
 The Last Story
 
+## História
+
+The Last Story
+
 ## Jogabilidade
 
 The Last Story

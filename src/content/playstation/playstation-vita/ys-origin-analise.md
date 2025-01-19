@@ -9,14 +9,21 @@ Ys Origin
 
 Ys Origin
 
+## História
+
+Ys Origin
+
 ## Jogabilidade
 
 Ys Origin
 
 ## Gráficos
 
+Ys Origin
 
 ## Som
+
+Ys Origin
 
 ## Conclusão
 

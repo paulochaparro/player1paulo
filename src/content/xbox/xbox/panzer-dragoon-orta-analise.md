@@ -9,6 +9,10 @@ Panzer Dragoon Orta
 
 Panzer Dragon Orta
 
+## História
+
+Panzer Dragoon Orta
+
 ## Jogabilidade
 
 Panzer Dragon Orta

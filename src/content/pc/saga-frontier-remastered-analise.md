@@ -9,6 +9,10 @@ SaGa Frontier Remastered
 
 SaGa Frontier Remastered
 
+## História
+
+SaGa Frontier Remastered
+
 ## Jogabilidade
 
 SaGa Frontier Remastered

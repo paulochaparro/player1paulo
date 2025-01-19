@@ -9,6 +9,10 @@ The Bouncer
 
 The Bouncer
 
+## História
+
+The Bouncer
+
 ## Jogabilidade
 
 The Bouncer

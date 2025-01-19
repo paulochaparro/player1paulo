@@ -9,6 +9,10 @@ Tales of Graces F
 
 Tales of Graces F
 
+## História
+
+Tales of Graces F
+
 ## Jogabilidade
 
 Tales of Graces F

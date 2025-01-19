@@ -9,6 +9,10 @@ The Getaway
 
 The Getaway
 
+## História
+
+The Getaway
+
 ## Jogabilidade
 
 The Getaway

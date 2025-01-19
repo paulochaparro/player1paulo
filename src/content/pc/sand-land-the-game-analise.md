@@ -9,6 +9,10 @@ Sand Land: The Game
 
 Sand Land: The Game
 
+## História
+
+Sanda Land: The Game
+
 ## Jogabilidade
 
 Sand Land: The Game

@@ -9,6 +9,10 @@ Silent Bomber
 
 Silent Bomber
 
+## História
+
+Silent Bomber
+
 ## Jogabilidade
 
 Silent Bomber

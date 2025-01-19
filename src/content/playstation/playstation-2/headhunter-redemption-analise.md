@@ -9,6 +9,10 @@ Headhunter: Redemption
 
 Headhunter: Redemption
 
+## História
+
+Headhunter: Redemption
+
 ## Jogabilidade
 
 Headhunter: Redemption

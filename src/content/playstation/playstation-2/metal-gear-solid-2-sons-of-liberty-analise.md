@@ -9,6 +9,10 @@ Metal Gear Solid 2: Sons of Liberty
 
 Metal Gear Solid 2: Sons of Liberty
 
+## História
+
+Metal Gear Solid 2: Sons of Liberty
+
 ## Jogabilidade
 
 Metal Gear Solid 2: Sons of Liberty

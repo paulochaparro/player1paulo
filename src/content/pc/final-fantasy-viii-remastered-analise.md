@@ -9,6 +9,10 @@ Final Fantasy VIII Remastered
 
 Final Fantasy VIII Remastered
 
+## História
+
+Final Fantasy VIII Remastered
+
 ## Jogabilidade
 
 Final Fantasy VIII Remastered

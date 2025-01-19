@@ -9,6 +9,10 @@ Tales of Xillia
 
 Tales of Xillia
 
+## História
+
+Tales of Xillia
+
 ## Jogabilidade
 
 Tales of Xillia

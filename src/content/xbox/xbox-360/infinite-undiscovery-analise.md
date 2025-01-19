@@ -9,6 +9,10 @@ Infinite Undiscovery
 
 Infinite Undiscovery
 
+## História
+
+Infinite Undiscovery
+
 ## Jogabilidade
 
 Infinite Undiscovery

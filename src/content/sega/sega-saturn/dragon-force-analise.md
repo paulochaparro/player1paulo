@@ -9,6 +9,10 @@ Dragon Force
 
 Dragon Force
 
+## História
+
+Dragon Force
+
 ## Jogabilidade
 
 Dragon Force

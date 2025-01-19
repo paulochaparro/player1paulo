@@ -9,6 +9,10 @@ Langrisser IV
 
 Langrisser IV
 
+## História
+
+Langrisser IV
+
 ## Jogabilidade
 
 Langrisser IV

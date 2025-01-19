@@ -9,6 +9,10 @@ Alterium Shift
 
 Alterium Shift
 
+## História
+
+Alterium Shift
+
 ## Jogabilidade
 
 Alterium Shift

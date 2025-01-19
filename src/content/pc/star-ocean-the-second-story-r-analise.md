@@ -9,6 +9,10 @@ Star Ocean the Second Story R
 
 Star Ocean the Second Story R
 
+## História
+
+Star Ocean the Second Story R
+
 ## Jogabilidade
 
 Star Ocean the Second Story R

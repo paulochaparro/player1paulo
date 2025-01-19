@@ -9,6 +9,10 @@ Final Fantasy Tactics Advance
 
 Final Fantasy Tactics Advance
 
+## História
+
+Final Fantasy Tactics Advance
+
 ## Jogabilidade
 
 Final Fantasy Tactics Advance

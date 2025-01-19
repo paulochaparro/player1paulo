@@ -9,6 +9,10 @@ Rogue Galaxy
 
 Rogue Galaxy
 
+## História
+
+Rogue Galaxy
+
 ## Jogabilidade
 
 Rogue Galaxy

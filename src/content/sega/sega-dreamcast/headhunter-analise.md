@@ -9,6 +9,10 @@ Headhunter
 
 Headhunter
 
+## História
+
+Headhunter
+
 ## Jogabilidade
 
 Headhunter

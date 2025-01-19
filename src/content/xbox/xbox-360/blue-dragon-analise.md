@@ -9,6 +9,10 @@ Blue Dragon
 
 Blue Dragon
 
+## História
+
+Blue Dragon
+
 ## Jogabilidade
 
 Blue Dragon

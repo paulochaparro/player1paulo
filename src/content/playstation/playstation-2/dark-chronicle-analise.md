@@ -9,6 +9,10 @@ Dark Chronicle
 
 Dark Chronicle
 
+## História
+
+Dark Chronicle
+
 ## Jogabilidade
 
 Dark Chronicle

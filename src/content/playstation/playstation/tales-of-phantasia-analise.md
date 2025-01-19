@@ -9,6 +9,10 @@ Tales of Phantasia
 
 Tales of Phantasia
 
+## História
+
+Tales of Phantasia
+
 ## Jogabilidade
 
 Tales of Phantasia

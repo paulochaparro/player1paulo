@@ -15,8 +15,11 @@ Power Stone Collection
 
 ## Gráficos
 
+Power Stone Collection
 
 ## Som
+
+Power Stone Collection
 
 ## Conclusão
 

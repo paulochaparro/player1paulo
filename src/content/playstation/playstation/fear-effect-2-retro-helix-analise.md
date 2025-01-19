@@ -9,6 +9,10 @@ Fear Effect 2: Retro Helix
 
 Fear Effect 2: Retro Helix
 
+## História
+
+Fear Effect 2: Retro Helix
+
 ## Jogabilidade
 
 Fear Effect 2: Retro Helix

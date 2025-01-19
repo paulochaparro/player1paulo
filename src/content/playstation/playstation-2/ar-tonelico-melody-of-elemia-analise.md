@@ -9,6 +9,10 @@ Ar Tonelico: Melody of Elemia
 
 Ar Tonelico: Melody of Elemia
 
+## História
+
+Ar Tonelico: Melody of Elemia
+
 ## Jogabilidade
 
 Ar Tonelico: Melody of Elemia

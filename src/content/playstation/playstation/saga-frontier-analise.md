@@ -9,6 +9,10 @@ SaGa Frontier
 
 SaGa Frontier
 
+## História
+
+SaGa Frontier
+
 ## Jogabilidade
 
 SaGa Frontier

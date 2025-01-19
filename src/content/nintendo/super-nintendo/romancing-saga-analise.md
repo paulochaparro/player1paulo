@@ -9,6 +9,10 @@ Romancing SaGa
 
 Romancing SaGa
 
+## História
+
+Romancing SaGa
+
 ## Jogabilidade
 
 Romancing SaGa

@@ -9,6 +9,10 @@ Metal Gear Solid
 
 Metal Gear Solid
 
+## História
+
+Metal Gear Solid
+
 ## Jogabilidade
 
 Metal Gear Solid

@@ -9,6 +9,10 @@ Syberia
 
 Syberia
 
+## História
+
+Syberia
+
 ## Jogabilidade
 
 Syberia

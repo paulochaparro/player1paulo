@@ -9,6 +9,10 @@ Live A Live
 
 Live A Live
 
+## História
+
+Live A Live
+
 ## Jogabilidade
 
 Live A Live

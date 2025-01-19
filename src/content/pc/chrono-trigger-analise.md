@@ -9,6 +9,10 @@ Chrono Trigger
 
 Chrono Trigger
 
+## História
+
+Chrono Trigger
+
 ## Jogabilidade
 
 Chrono Trigger

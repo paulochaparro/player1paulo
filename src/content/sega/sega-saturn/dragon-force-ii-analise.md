@@ -9,14 +9,21 @@ Dragon Force II
 
 Dragon Force II
 
+## História
+
+Dragon Force II
+
 ## Jogabilidade
 
 Dragon Force II
 
 ## Gráficos
 
+Dragon Force II
 
 ## Som
+
+Dragon Force II
 
 ## Conclusão
 

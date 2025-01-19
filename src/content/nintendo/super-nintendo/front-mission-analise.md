@@ -9,6 +9,10 @@ Front Mission
 
 Front Mission
 
+## História
+
+Front Mission
+
 ## Jogabilidade
 
 Front Mission

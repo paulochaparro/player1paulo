@@ -9,7 +9,19 @@ Panzer Dragoon
 
 Panzer Dragoon
 
+## História
+
+Panzer Dragoon
+
 ## Jogabilidade
+
+Panzer Dragoon
+
+## Gráficos
+
+Panzer Dragoon
+
+## Som
 
 Panzer Dragoon
 

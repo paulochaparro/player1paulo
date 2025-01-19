@@ -9,6 +9,10 @@ Bahamut Lagoon
 
 Bahamut Lagoon
 
+## História
+
+Bahamut Lagoon
+
 ## Jogabilidade
 
 Bahamut Lagoon

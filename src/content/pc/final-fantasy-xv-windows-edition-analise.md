@@ -11,7 +11,11 @@ Final Fantasy XV Windows Edition
 
 ## Final Fantasy XV
 
-Final Fantasy
+Final Fantasy XV
+
+## História
+
+Final Fantasy XV
 
 ## Jogabilidade
 

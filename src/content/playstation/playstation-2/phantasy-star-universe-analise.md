@@ -9,6 +9,10 @@ Phantasy Star Universe
 
 Phantasy Star Universe
 
+## História
+
+Phantasy Star Universe
+
 ## Jogabilidade
 
 Phantasy Star Universe

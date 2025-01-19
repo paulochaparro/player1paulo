@@ -9,6 +9,10 @@ Radiant Historia
 
 Radiant Historia
 
+## História
+
+Radiant Historia
+
 ## Jogabilidade
 
 Radiant Historia

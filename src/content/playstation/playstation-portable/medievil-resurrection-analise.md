@@ -15,8 +15,11 @@ MediEvil: Resurrection
 
 ## Gráficos
 
+MediEvil: Resurrection
 
 ## Som
+
+MediEvil: Resurrection
 
 ## Conclusão
 

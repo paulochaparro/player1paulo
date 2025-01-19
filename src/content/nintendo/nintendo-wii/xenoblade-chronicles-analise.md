@@ -9,6 +9,10 @@ Xenoblade Chronicles
 
 Xenoblade Chronicles
 
+## História
+
+Xenoblade Chronicles
+
 ## Jogabilidade
 
 Xenoblade Chronicles

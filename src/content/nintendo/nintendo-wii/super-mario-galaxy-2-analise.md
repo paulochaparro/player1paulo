@@ -9,6 +9,10 @@ Super Mario Galaxy 2
 
 Super Mario Galaxy 2
 
+## História
+
+Super Mario Galaxy 2
+
 ## Jogabilidade
 
 Super Mario Galaxy 2

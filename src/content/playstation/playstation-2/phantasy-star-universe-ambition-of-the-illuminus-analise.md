@@ -9,6 +9,10 @@ Phantasy Star Universe: Ambition of the Illuminus
 
 Phantasy Star Universe: Ambition of the Illuminus
 
+## História
+
+Phantasy Star Universe: Ambition of the Illuminus
+
 ## Jogabilidade
 
 Phantasy Star Universe: Ambition of the Illuminus

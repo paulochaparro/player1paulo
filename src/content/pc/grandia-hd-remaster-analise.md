@@ -9,6 +9,10 @@ Grandia HD Remaster
 
 Grandia HD Remaster
 
+## História
+
+Grandia HD Remaster
+
 ## Jogabilidade
 
 Grandia HD Remaster

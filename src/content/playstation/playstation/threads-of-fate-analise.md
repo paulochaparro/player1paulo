@@ -9,6 +9,10 @@ Threads of Fate
 
 Threads of Fate
 
+## História
+
+Threads of Fate
+
 ## Jogabilidade
 
 Threads of Fate

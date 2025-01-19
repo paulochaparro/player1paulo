@@ -9,6 +9,10 @@ Tales of Destiny: Director's Cut
 
 Tales of Destiny: Director's Cut
 
+## História
+
+Tales of Destiny: Director's Cut
+
 ## Jogabilidade
 
 Tales of Destiny: Director's Cut

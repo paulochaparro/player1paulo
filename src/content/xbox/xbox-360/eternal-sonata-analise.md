@@ -9,6 +9,10 @@ Eternal Sonata
 
 Eternal Sonata
 
+## História
+
+Eternal Sonata
+
 ## Jogabilidade
 
 Eternal Sonata

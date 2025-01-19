@@ -9,6 +9,10 @@ Final Fantasy XIII
 
 Final Fantasy XIII
 
+## História
+
+Final Fantasy XIII
+
 ## Jogabilidade
 
 Final Fantasy XIII

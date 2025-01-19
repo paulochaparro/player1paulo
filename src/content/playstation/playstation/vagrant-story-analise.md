@@ -9,6 +9,10 @@ Vagrant Story
 
 Vagrant Story
 
+## História
+
+Vagrant Story
+
 ## Jogabilidade
 
 Vagrant Story

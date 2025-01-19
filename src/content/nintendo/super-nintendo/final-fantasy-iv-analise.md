@@ -9,6 +9,10 @@ Final Fantasy IV
 
 Final Fantasy IV
 
+## História
+
+Final Fantasy IV
+
 ## Jogabilidade
 
 Final Fantasy IV

@@ -9,6 +9,10 @@ Breath of Fire
 
 Breath of Fire
 
+## História
+
+Breath of Fire
+
 ## Jogabilidade
 
 Breath of Fire

@@ -9,6 +9,10 @@ Ghost in the Shell
 
 Ghost in the Shell
 
+## História
+
+Ghost in the Shell
+
 ## Jogabilidade
 
 Ghost in the Shell

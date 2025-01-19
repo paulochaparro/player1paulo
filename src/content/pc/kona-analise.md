@@ -9,6 +9,10 @@ Kona
 
 Kona
 
+## História
+
+Kona
+
 ## Jogabilidade
 
 Kona

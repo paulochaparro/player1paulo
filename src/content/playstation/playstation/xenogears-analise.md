@@ -9,6 +9,10 @@ Xenogears
 
 Xenogears
 
+## História
+
+Xenogears
+
 ## Jogabilidade
 
 Xenogears

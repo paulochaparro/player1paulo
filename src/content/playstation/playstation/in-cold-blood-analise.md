@@ -9,6 +9,10 @@ In Cold Blood
 
 In Cold Blood
 
+## História
+
+In Cold Blood
+
 ## Jogabilidade
 
 In Cold Blood

@@ -9,7 +9,19 @@ Shining Force CD
 
 Shining Force CD
 
+## História
+
+Shining Force CD
+
 ## Jogabilidade
+
+Shining Force CD
+
+## Gráficos
+
+Shining Force CD
+
+## Som
 
 Shining Force CD
 

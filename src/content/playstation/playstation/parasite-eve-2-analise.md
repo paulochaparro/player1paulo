@@ -9,6 +9,10 @@ Parasite Eve 2
 
 Parasite Eve 2
 
+## História
+
+Parasite Eve 2
+
 ## Jogabilidade
 
 Parasite Eve 2

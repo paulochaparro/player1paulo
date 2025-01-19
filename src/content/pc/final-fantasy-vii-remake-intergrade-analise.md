@@ -9,6 +9,10 @@ Final Fantasy VII Remake Intergrade
 
 Final Fantasy VII Remake Intergrade
 
+## História
+
+Final Fantasy VII Remake Intergrade
+
 ## Jogabilidade
 
 Final Fantasy VII Remake Intergrade

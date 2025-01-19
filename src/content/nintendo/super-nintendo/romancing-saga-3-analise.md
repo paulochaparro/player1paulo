@@ -9,6 +9,10 @@ Romancing SaGa 3
 
 Romancing SaGa 3
 
+## História
+
+Romancing SaGa 3
+
 ## Jogabilidade
 
 Romancing SaGa 3

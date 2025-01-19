@@ -9,6 +9,10 @@ Alan Wake's American Nightmare
 
 Alan Wake's American Nightmare
 
+## História
+
+Alan Wake's American Nightmare
+
 ## Jogabilidade
 
 Alan Wake's American Nightmare

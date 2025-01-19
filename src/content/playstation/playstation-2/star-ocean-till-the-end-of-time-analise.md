@@ -9,6 +9,10 @@ Star Ocean: Till the End of Time
 
 Star Ocean: Till the End of Time
 
+## História
+
+Star Ocean: Till the End of Time
+
 ## Jogabilidade
 
 Star Ocean: Till the End of Time

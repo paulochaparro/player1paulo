@@ -9,6 +9,10 @@ Devil May Cry
 
 Devil May Cry
 
+## História
+
+Devil May cry
+
 ## Jogabilidade
 
 Devil May Cry

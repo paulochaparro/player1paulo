@@ -9,6 +9,10 @@ Black Mirror II
 
 Black Mirror II
 
+## História
+
+Black Mirror II
+
 ## Jogabilidade
 
 Black Mirror II

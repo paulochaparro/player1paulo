@@ -9,6 +9,10 @@ Triangle Strategy
 
 Triangle Strategy
 
+## História
+
+Triangle Strategy
+
 ## Jogabilidade
 
 Triangle Strategy

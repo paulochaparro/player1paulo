@@ -9,6 +9,10 @@ Zone of the Enders: The 2nd Runner
 
 Zone of the Enders: The 2nd Runner
 
+## História
+
+Zone of the Enders: The 2nd Runner
+
 ## Jogabilidade
 
 Zone of the Enders: The 2nd Runner

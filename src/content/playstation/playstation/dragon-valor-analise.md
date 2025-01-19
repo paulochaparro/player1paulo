@@ -9,6 +9,10 @@ Dragon Valor
 
 Dragon Valor
 
+## História
+
+Dragon Valor
+
 ## Jogabilidade
 
 Dragon Valor

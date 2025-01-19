@@ -9,6 +9,10 @@ Breath of Fire II
 
 Breath of Fire II
 
+## História
+
+Breath of Fire II
+
 ## Jogabilidade
 
 Breath of Fire II

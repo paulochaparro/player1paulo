@@ -9,6 +9,10 @@ Final Fantasy VI Advance
 
 Final Fantasy VI Advance
 
+## História
+
+Final Fantasy VI Advance
+
 ## Jogabilidade
 
 Final Fantasy VI Advance

@@ -9,6 +9,10 @@ Jade Cocoon: Story of the Tamamayu
 
 Jade Cocoon: Story of the Tamamayu
 
+## História
+
+Jade Cocoon: Story of the Tamamayu
+
 ## Jogabilidade
 
 Jade Cocoon: Story of the Tamamayu

@@ -9,6 +9,10 @@ Virtua Quest
 
 Virtua Quest
 
+## História
+
+Virtua Quest
+
 ## Jogabilidade
 
 Virtua Quest

@@ -9,6 +9,10 @@ Sea of Stars
 
 Sea of Stars
 
+## História
+
+Sea of Stars
+
 ## Jogabilidade
 
 Sea of Stars

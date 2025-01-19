@@ -9,6 +9,10 @@ Shenmue II
 
 Shenmue II
 
+## História
+
+Shenmue II
+
 ## Jogabilidade
 
 Shenmue II

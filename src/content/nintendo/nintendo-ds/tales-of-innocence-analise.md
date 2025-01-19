@@ -9,6 +9,10 @@ Tales of Innocence
 
 Tales of Innocence
 
+## História
+
+Tales of Innocence
+
 ## Jogabilidade
 
 Tales of Innocence

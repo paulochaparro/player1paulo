@@ -9,6 +9,10 @@ Legend of Mana
 
 Legend of Mana
 
+## História
+
+Legend of Mana
+
 ## Jogabilidade
 
 Legend of Mana

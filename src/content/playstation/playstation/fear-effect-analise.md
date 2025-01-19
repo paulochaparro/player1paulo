@@ -9,6 +9,10 @@ Fear Effect
 
 Fear Effect
 
+## História
+
+Fear Effect
+
 ## Jogabilidade
 
 Fear Effect

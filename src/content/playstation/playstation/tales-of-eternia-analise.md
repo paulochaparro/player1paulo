@@ -9,6 +9,10 @@ Tales of Eternia
 
 Tales of Eternia
 
+## História
+
+Tales of Eternia
+
 ## Jogabilidade
 
 Tales of Eternia

@@ -9,7 +9,19 @@ Shining Force III: Scenario I
 
 Shining Force III: Scenario I
 
+## História
+
+Shining Force III: Scenario I
+
 ## Jogabilidade
+
+Shining Force III: Scenario I
+
+## Gráficos
+
+Shining Force III: Scenario I
+
+## Som
 
 Shining Force III: Scenario I
 

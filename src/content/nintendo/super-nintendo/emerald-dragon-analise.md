@@ -9,6 +9,10 @@ Emerald Dragon
 
 Emerald Dragon
 
+## História
+
+Emerald Dragon
+
 ## Jogabilidade
 
 Emerald Dragon

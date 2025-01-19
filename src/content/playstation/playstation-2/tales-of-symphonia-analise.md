@@ -9,6 +9,10 @@ Tales of Symphonia
 
 Tales of Symphonia
 
+## História
+
+Tales of Symphonia
+
 ## Jogabilidade
 
 Tales of Symphonia

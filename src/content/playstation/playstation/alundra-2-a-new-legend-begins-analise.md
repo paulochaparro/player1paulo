@@ -9,6 +9,10 @@ Alundra 2: A New Legend Begins
 
 Alundra 2: A New Legend Begins
 
+## Hstória
+
+Alundra 2: A New Legend Begins
+
 ## Jogabilidade
 
 Alundra 2: A New Legend Begins

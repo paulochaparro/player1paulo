@@ -9,6 +9,10 @@ Terranigma
 
 Terranigma
 
+## História
+
+Terranigma
+
 ## Jogabilidade
 
 Terranigma

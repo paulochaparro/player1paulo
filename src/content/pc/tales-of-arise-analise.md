@@ -9,6 +9,10 @@ Tales of Arise
 
 Tales of Arise
 
+## História
+
+Tales of Arise
+
 ## Jogabilidade
 
 Tales of Arise

@@ -21,10 +21,19 @@
 
 body {
   margin: 0;
+  height: 100vh;
+  height: 100dvh;
   background-color: var(--light-bg);
   color: var(--light-text);
   font-family: var(--font-family);
   line-height: normal;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
 }
 
 header {
@@ -57,37 +66,37 @@ footer {
   display: ;
 }
 
-@media (min-width: var(--breakpoint-xs)) {
+@media screen (min-width: var(--breakpoint-xs)) {
   body {
     font-size: 1rem;
   }
 }
 
-@media (min-width: var(--breakpoint-sm)) {
+@media screen (min-width: var(--breakpoint-sm)) {
   body {
     font-size: 1.1rem;
   }
 }
 
-@media (min-width: var(--breakpoint-md)) {
+@media screen (min-width: var(--breakpoint-md)) {
   body {
     font-size: 1.2rem;
   }
 }
 
-@media (min-width: var(--breakpoint-lg)) {
+@media screen (min-width: var(--breakpoint-lg)) {
   body {
     font-size: 1.22rem;
   }
 }
 
-@media (min-width: var(--breakpoint-xl)) {
+@media screen (min-width: var(--breakpoint-xl)) {
   body {
     font-size: 1.24rem;
   }
 }
 
-@media (min-width: var(--breakpoint-xxl)) {
+@media screen (min-width: var(--breakpoint-xxl)) {
   body {
     font-size: 1.26rem;
   }

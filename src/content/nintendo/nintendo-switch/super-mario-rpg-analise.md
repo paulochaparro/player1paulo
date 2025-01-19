@@ -9,6 +9,10 @@ Super Mario RPG
 
 Super Mario RPG
 
+## História
+
+Super Mario RPG
+
 ## Jogabilidade
 
 Super Mario RPG

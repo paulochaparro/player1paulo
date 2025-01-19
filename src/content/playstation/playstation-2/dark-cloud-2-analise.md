@@ -9,6 +9,10 @@ Dark Cloud 2
 
 Dark Cloud 2
 
+## História
+
+Dark Cloud 2
+
 ## Jogabilidade
 
 Dark Cloud 2

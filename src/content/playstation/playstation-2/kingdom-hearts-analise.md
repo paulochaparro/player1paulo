@@ -9,6 +9,10 @@ Kingdom Hearts
 
 Kingdom Hearts
 
+## História
+
+Kingdom Hearts
+
 ## Jogabilidade
 
 Kingdom Hearts

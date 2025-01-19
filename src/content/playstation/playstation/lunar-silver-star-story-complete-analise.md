@@ -9,6 +9,10 @@ Lunar: Silver Star Story Complete
 
 Lunar: Silver Star Story Complete
 
+## História
+
+Lunar: Silver Star Story Complete
+
 ## Jogabilidade
 
 Lunar: Silver Star Story Complete

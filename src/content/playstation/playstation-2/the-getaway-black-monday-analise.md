@@ -9,6 +9,10 @@ The Getaway: Black Monday
 
 The Getaway: Black Monday
 
+## História
+
+The Getaway: Black Monday
+
 ## Jogabilidade
 
 The Getaway: Black Monday

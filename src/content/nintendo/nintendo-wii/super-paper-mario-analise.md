@@ -9,6 +9,10 @@ Super Paper Mario
 
 Super Paper Mario
 
+## História
+
+Super Paper Mario
+
 ## Jogabilidade
 
 Super Paper Mario

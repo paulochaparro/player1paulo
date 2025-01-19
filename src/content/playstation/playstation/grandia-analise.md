@@ -9,6 +9,10 @@ Grandia
 
 Grandia
 
+## História
+
+Grandia
+
 ## Jogabilidade
 
 Grandia

@@ -9,6 +9,10 @@ Thousand Arms
 
 Thousand Arms
 
+## História
+
+Thousand Arms
+
 ## Jogabilidade
 
 Thousand Arms

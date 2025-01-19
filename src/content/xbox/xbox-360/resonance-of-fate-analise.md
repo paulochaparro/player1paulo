@@ -9,6 +9,10 @@ Resonance of Fate
 
 Resonance of Fate
 
+## História
+
+Resonance of Fate
+
 ## Jogabilidade
 
 Resonance of Fate

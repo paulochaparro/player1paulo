@@ -9,6 +9,10 @@ Lunar 2: Eternal Blue Complete
 
 Lunar 2: Eternal Blue Complete
 
+## História
+
+Lunar 2: Eternal Blue Complete
+
 ## Jogabilidade
 
 Lunar 2: Eternal Blue Complete

@@ -9,7 +9,19 @@ Panzer Dragoon Saga
 
 Panzer Dragoon Saga
 
+## História
+
+Panzer Dragoon Saga
+
 ## Jogabilidade
+
+Panzer Dragoon Saga
+
+## Gráficos
+
+Panzer Dragoon Saga
+
+## Som
 
 Panzer Dragoon Saga
 

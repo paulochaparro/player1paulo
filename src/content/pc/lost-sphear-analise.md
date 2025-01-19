@@ -9,6 +9,10 @@ Lost Sphear
 
 Lost Sphear
 
+## História
+
+Lost Shpear
+
 ## Jogabilidade
 
 Lost Sphear

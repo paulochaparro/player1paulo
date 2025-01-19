@@ -9,6 +9,10 @@ Skies of Arcadia
 
 Skies of Arcadia
 
+## História
+
+Skies of Arcadia
+
 ## Jogabilidade
 
 Skies of Arcadia

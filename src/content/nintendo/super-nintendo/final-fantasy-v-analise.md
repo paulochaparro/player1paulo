@@ -9,6 +9,10 @@ Final Fantasy V
 
 Final Fantasy V
 
+## História
+
+Fianl Fantasy V
+
 ## Jogabilidade
 
 Final Fantasy V

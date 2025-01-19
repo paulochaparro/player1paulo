@@ -9,6 +9,10 @@ The Legend of Heroes: Trails to Azure
 
 The Legend of Heroes: Trails to Azure
 
+## História
+
+The Legend of Heroes: Trails to Azure
+
 ## Jogablidade
 
 The Legend of Heroes: Trails to Azure

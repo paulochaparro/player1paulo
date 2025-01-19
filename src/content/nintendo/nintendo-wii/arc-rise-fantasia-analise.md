@@ -9,6 +9,10 @@ Arc Rise Fantasia
 
 Arc Rise Fantasia
 
+## História
+
+Arc Rise Fantasia
+
 ## Jogabilidade
 
 Arc Rise Fantasia

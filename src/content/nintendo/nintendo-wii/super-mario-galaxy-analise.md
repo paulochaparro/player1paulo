@@ -9,6 +9,10 @@ Super Mario Galaxy
 
 Super Mario Galaxy
 
+## História
+
+Super Mario Galaxy
+
 ## Jogabilidade
 
 Super Mario Galaxy

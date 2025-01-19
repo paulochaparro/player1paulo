@@ -9,6 +9,10 @@ Lost Odyssey
 
 Lost Odyssey
 
+## História
+
+Lost Odyssey
+
 ## Jogabilidade
 
 Lost Odyssey

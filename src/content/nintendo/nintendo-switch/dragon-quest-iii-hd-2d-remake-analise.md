@@ -9,6 +9,10 @@ Dragon Quest III HD-2D Remake
 
 Dragon Quest III HD-2D Remake
 
+## História
+
+Dragon Quest III HD-2D Remake
+
 ## Jogabilidade
 
 Dragon Quest III HD-2D Remake

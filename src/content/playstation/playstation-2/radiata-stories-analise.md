@@ -9,6 +9,10 @@ Radiata Stories
 
 Radiata Stories
 
+## História
+
+Radiata Stories
+
 ## Jogabilidade
 
 Radiata Stories

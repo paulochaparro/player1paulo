@@ -9,6 +9,10 @@ Legend of Legaia
 
 Legend of Legaia
 
+## História
+
+Legend of Legaia
+
 ## Jogabilidade
 
 Legend of Legaia

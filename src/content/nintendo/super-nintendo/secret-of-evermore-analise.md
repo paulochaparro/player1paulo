@@ -9,6 +9,10 @@ Secret of Evermore
 
 Secret of Evermore
 
+## História
+
+Secret of Evermore
+
 ## Jogabilidade
 
 Secret of Evermore

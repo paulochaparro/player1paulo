@@ -9,6 +9,10 @@ Syberia II
 
 Syberia II
 
+## História
+
+Syberia II
+
 ## Jogabilidade
 
 Syberia II

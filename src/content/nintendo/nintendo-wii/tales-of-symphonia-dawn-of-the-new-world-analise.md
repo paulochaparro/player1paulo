@@ -9,6 +9,10 @@ Tales of Symphonia: Dawn of the New World
 
 Tales of Symphonia: Dawn of the New World
 
+## História
+
+Tales of Symphonia: Dawn of the New World
+
 ## Jogabilidade
 
 Tales of Symphonia: Dawn of the New World

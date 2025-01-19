@@ -9,6 +9,10 @@ Skies of Arcadia Legends
 
 Skies of Arcadia Legends
 
+## História
+
+Skies of Arcadia Legends
+
 ## Jogabilidade
 
 Skies of Arcadia Legends

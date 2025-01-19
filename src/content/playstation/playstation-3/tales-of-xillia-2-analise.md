@@ -9,6 +9,10 @@ Tales of Xillia 2
 
 Tales of Xillia 2
 
+## História
+
+Tales of Xillia 2
+
 ## Jogabilidade
 
 Tales of Xillia 2
